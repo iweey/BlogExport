@@ -1,0 +1,4675 @@
+公众号文章评论
+
+https://mp.weixin.qq.com/mp/appmsg_comment?action=getcomment&scene=0&appmsgid=2649983979&idx=1&comment_id=1848486647546347527&offset=0&limit=100&send_time=&uin=ODcyOTUzNzIw&key=6d2826151309341c1e705ad7c8739a4596c94ccccc15a301a0b4ea733bdc8e1691ba2bc5a3f60333d7e88720386cc016d47732ad81adebf5b4da3d399fb8c589daa48880dec481519dbb2fb9af70684b0290d4cd799d462a70511103d84d7e908cbfeb085b89f0433020635a4b52ea810459417f2a047b9720f3a11b5026df1b&pass_ticket=ThuUDl8KnbJtoPVr6BSO%2FiwJsy1BfKoIDWsQki8AUVB27RjUi0F8exGLYAnvdwQu&wxtoken=777&devicetype=iMac%26nbsp%3BMacBookPro11%2C5%26nbsp%3BOSX%26nbsp%3BOSX%26nbsp%3B10.14.6%26nbsp%3Bbuild(18G103)&clientversion=13000411&__biz=MzI5NzA5MDEzNg%3D%3D&appmsg_token=1118_R7z1wSOg9kNM5nIVJXvd6F_6f0N4-luFmQdN9MG0tUEVkTMGGdlwJbjYQqKeRTl08W8fJ4sdEiwy_DiR&x5=0&f=json
+
+
+{
+  "base_resp": {
+    "ret": 0,
+    "errmsg": "ok"
+  },
+  "enabled": 1,
+  "is_fans": 1,
+  "nick_name": "佳威",
+  "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH47O6j71MTWxttemPQsfcia4CMGUh6UZ35PLthu7u1wRmajOHLYicicQwgG1H8P6W8sIuHsLHEiaibkcsy341AW4r1ne/132",
+  "my_comment": [
+
+  ],
+  "elected_comment": [
+    {
+      "id": 272,
+      "my_id": 177,
+      "nick_name": "郭金超Eason¹",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH69WkQUSRnDoWlkuvTyrBVTiceCA64wsh26a6cY4Tl5lybiceZvoOeaSjgsMwnC8G9JqdrVicVy3ZZB05RebSiaQALx/132",
+      "content": "巴芒大会交流群人数设限，后来的读者如果没来得及进群，再去添加大会服务助手微信（已进群无需添加），文文2：19928877608，文文1：19928877795。",
+      "create_time": 1619777683,
+      "content_id": "4959234136364548273",
+      "like_id": 0,
+      "like_num": 17,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "这是富途证券的客服小哥，微信号可信[OK]",
+            "uin": 3297090136,
+            "create_time": 1619777809,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1154661676,
+            "reply_like_num": 30,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 1,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "这是富途证券的客服小哥，微信号可信[OK]",
+            "openid": "",
+            "create_time": 1619777809,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 30,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 310,
+      "my_id": 1072,
+      "nick_name": "刘全红",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTun4J220fUdaxXxubQcISLaI74lLNDk1bVtv6FeSjwFibNtbIBGHdZ4ZA5MuwLRsX1frwEQpb41krx/132",
+      "content": "我来中翻中一次增值税和消费税及附加，看看能不能比老唐好理解点[偷笑]\n\n城建税、教育费附加、地方教育费附加的税率分别是7%，3%和2%，简称“附税”，综合在一起税率是12%。\n        请注意，这个“附税”是以增值税和消费税纳税金额为计税依据。并不以营业收入作为计税依据。我来举个栗子，一看便知。\n        例如：全红酒厂销售白酒100万元，\n则，应交增值税100x13%=13万元。\n应交增值税附加：增值税税额x综合税率\n即：13×12%=1.56万元。“附加”要进利润表“税金及附加”科目，影响损益。\n        因为增值税是价外税，简单理解价外税就是：买方交的增值税，全红酒厂代为收取，转交国家的。所以增值税不统计在利润表的“税金及附加”里。\n       而消费税的纳税人是卖方，也是全红酒厂，所以要算在全红酒厂财报里利润表的“税金及附加”科目。消费税按照规定也要缴纳“附税”。\n即消费税计算：白酒销售收入x消费税税率。即：100x12%=12万\n消费税的附税计算：12×12%=1.44万\n次案例里，记入利润表的“税金及附加”包括\n1、增值税的附税1.56万，\n2、消费税12万，\n3、消费税的附税1.44万元\n没有班门弄斧的意思，只是觉得对小白来说，这个可能更通俗易懂[呲牙]\n\n",
+      "create_time": 1619782170,
+      "content_id": "11432736164906271792",
+      "like_id": 0,
+      "like_num": 239,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "对，你说的很清楚。我的假设表达对象不是纯白，说的比较简单[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619782864,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2661891320,
+            "reply_like_num": 59,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "对，你说的很清楚。我的假设表达对象不是纯白，说的比较简单[呲牙]",
+            "openid": "",
+            "create_time": 1619782864,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 59,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 86,
+      "my_id": 6,
+      "nick_name": "无言",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoUZzq7d7Go2rrvhT5GiatrICC3cAaCD8UGlkDRNa1cr4iatiaAJZKdGUT7Kq4A2icmvYxS5oAiazOBibcPDR84tHUKuVZ/132",
+      "content": "陕西煤业年报，一季报，业绩那么好，股价反而跌了6%，怎么会这样？是否还没有达到超级棒？",
+      "create_time": 1619772211,
+      "content_id": "13104707679870255110",
+      "like_id": 0,
+      "like_num": 17,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "哈哈哈，怎么回复你呢？[捂脸][捂脸]",
+            "uin": 3297090136,
+            "create_time": 1619773526,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 3051177524,
+            "reply_like_num": 63,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "陕西煤业今天就跌了6%，我的理解是和年报、季报无关，只和五一放假前交易不活跃有关。",
+            "uin": 3051177524,
+            "create_time": 1619774058,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "这充分说明今天的文章对于而言，是等于没有[坏笑][勾引]",
+            "uin": 3297090136,
+            "create_time": 1619774142,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "to_uin": 3051177524,
+            "reply_like_num": 190,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 3
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "哈哈哈，怎么回复你呢？[捂脸][捂脸]",
+            "openid": "",
+            "create_time": 1619773526,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 63,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "陕西煤业今天就跌了6%，我的理解是和年报、季报无关，只和五一放假前交易不活跃有关。",
+            "openid": "oWJqFxMWC6nWSEJTbZVCWVMkUELU",
+            "create_time": 1619774058,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "无言",
+            "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoUZzq7d7Go2rrvhT5GiatrICC3cAaCD8UGlkDRNa1cr4iatiaAJZKdGUT7Kq4A2icmvYxS5oAiazOBibcPDR84tHUKuVZ/132",
+            "is_from": 3,
+            "author_like_status": 0
+          },
+          {
+            "content": "这充分说明今天的文章对于而言，是等于没有[坏笑][勾引]",
+            "openid": "",
+            "create_time": 1619774142,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "reply_like_num": 190,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 4,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 219,
+      "my_id": 61,
+      "nick_name": "coral",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6CCK5cjAeyY0A8OLbG7ExaHpmRrcGohuz2nI5EtaSKAth9K1P32lBhHc0DjGrrIECq4eRJ6ouII28MzwG7MUia39/132",
+      "content": "老唐，请问纸质年报如何获取？",
+      "create_time": 1619774990,
+      "content_id": "7524113220269768765",
+      "like_id": 0,
+      "like_num": 9,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "获得纸质年报和把大象塞进冰箱一样，一共分三步：第一，下载年报PDF版；第二，找一家复印打印店，线下的或者淘宝的，都可以；第三，把PDF和打印复印费给他。欧啦，搞定[偷笑]",
+            "uin": 3297090136,
+            "create_time": 1619775297,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1751844124,
+            "reply_like_num": 138,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "获得纸质年报和把大象塞进冰箱一样，一共分三步：第一，下载年报PDF版；第二，找一家复印打印店，线下的或者淘宝的，都可以；第三，把PDF和打印复印费给他。欧啦，搞定[偷笑]",
+            "openid": "",
+            "create_time": 1619775297,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 138,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 103,
+      "my_id": 230,
+      "nick_name": "梅花剑",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vSYzAbibO1Y3odNSNhvzR2A831p5DmZxvo3uCFmO1MpTRIryp4zh142B4qF7OSlMGY2xsian4LUTp2nqdE11WpMCO/132",
+      "content": "老唐，请问是不是永远不空仓啊，只是根据估值进行调仓？",
+      "create_time": 1619772404,
+      "content_id": "1750510472349614310",
+      "like_id": 0,
+      "like_num": 14,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "将现金看作30倍市盈率，3%股息率，0增长的一只股票。什么问题都接近了[调皮]",
+            "uin": 3297090136,
+            "create_time": 1619773783,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 407572480,
+            "reply_like_num": 114,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "刚看见一个笔误，“接近”=解决[偷笑]",
+            "uin": 3297090136,
+            "create_time": 1619833592,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 407572480,
+            "reply_like_num": 7,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 2
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "将现金看作30倍市盈率，3%股息率，0增长的一只股票。什么问题都接近了[调皮]",
+            "openid": "",
+            "create_time": 1619773783,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 114,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "刚看见一个笔误，“接近”=解决[偷笑]",
+            "openid": "",
+            "create_time": 1619833592,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 7,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 3,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 116,
+      "my_id": 3,
+      "nick_name": "纸短情长",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vQGoSytRxABITzM4Nvyn60YwgQbHicdibqlHpDRRBVjAtjw9OVjxicXUQuzQEh8OOdz9ClSatHQzvbjt4QjBWRHLn1/132",
+      "content": "老唐   什么时候加仓的洋河啊   突然就比上周多了2%",
+      "create_time": 1619772598,
+      "content_id": "10979883755337940995",
+      "like_id": 0,
+      "like_num": 10,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "真邪门，你进书房两年零两个月了，居然还能问这个问题？？两年多来，没有一次看过表格下面的①？",
+            "uin": 3297090136,
+            "create_time": 1619773720,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2556453402,
+            "reply_like_num": 89,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "瞬间觉得是一个弱智的问题了",
+            "uin": 2556453402,
+            "create_time": 1619774007,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 31,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          }
+        ],
+        "reply_count": 2
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "真邪门，你进书房两年零两个月了，居然还能问这个问题？？两年多来，没有一次看过表格下面的①？",
+            "openid": "",
+            "create_time": 1619773720,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 89,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "瞬间觉得是一个弱智的问题了",
+            "openid": "oWJqFxAqmw1FvcTOaxXsk3G1qK-k",
+            "create_time": 1619774007,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 31,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "纸短情长",
+            "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vQGoSytRxABITzM4Nvyn60YwgQbHicdibqlHpDRRBVjAtjw9OVjxicXUQuzQEh8OOdz9ClSatHQzvbjt4QjBWRHLn1/132",
+            "is_from": 3,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 3,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 171,
+      "my_id": 401,
+      "nick_name": "钱不够花",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH7ey9XcqYibtoAb19I06Z2S21cntqEVLnUsb8hSvz2YFVDbiag3QGR8qeaD3ydqWqWXtN5RwQaDrOjD4YTWs4R9tf/132",
+      "content": "我就是那个卖出洋河的“聪明人”，赚了200块，错失4000块。\n市场先生真的只能利用而不可预测。",
+      "create_time": 1619773314,
+      "content_id": "6934463972020060561",
+      "like_id": 0,
+      "like_num": 68,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 114,
+      "my_id": 717,
+      "nick_name": "德芙คิดถึง",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy6iagsu9rfbUNSjDNx4csFBLdG1vro345xah5vhibibwI2TyGQcWjphv2MXycnVl4F72iadRGwaXRs49/132",
+      "content": "洋河和陕煤上了生动的一课[呲牙]，都可以用目瞪狗呆来形容[旺柴]",
+      "create_time": 1619772573,
+      "content_id": "5390920375867540173",
+      "like_id": 0,
+      "like_num": 66,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 231,
+      "my_id": 78,
+      "nick_name": "AnthonyJiang",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45O5aKw4Niar8KQCVaictO1sibDAOkGyml6icERU75HC2F9jWgcMl1U4rturplxZfQZicviaq32ogk259oz/132",
+      "content": "陕西煤业业绩不错，但今天股价大跌。一季报显示，陕西煤业一季度的同比收入增速和净利润增速不匹配（后者低于前者约42pp），我看了下，主要是投资收益一来一去差了5亿，扣非净利润增速就显得和收入增速较为匹配了，也许会因为这个原因大跌？",
+      "create_time": 1619775415,
+      "content_id": "6627304803116515406",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "给股价涨跌找理由，是无用功。",
+            "uin": 3297090136,
+            "create_time": 1619775553,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1543039643,
+            "reply_like_num": 51,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "给股价涨跌找理由，是无用功。",
+            "openid": "",
+            "create_time": 1619775553,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 51,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 3,
+      "my_id": 68,
+      "nick_name": "廖廖",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM78mNibWg1LoalxqtTFIPGIjV6ATKibgxWcCajwlb0jMY8pkzzhlNn1vxU9rFy4FsfLWl7ibwvWdOTWutkwoBBzYQS3iaQmjz867xg/132",
+      "content": "沙发，终于想通恒生ETF的作用: 持有它，可以等自选股跌倒理想买入空间。本周手脑合一，忘掉洋河涨停的踏空想法，买恒生etf",
+      "create_time": 1619771492,
+      "content_id": "6726981016847646788",
+      "like_id": 0,
+      "like_num": 48,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "书房认证，真皮沙发。瓜子花生矿泉水，您请上座~[呲牙][握手]",
+            "uin": 3297090136,
+            "create_time": 1619771525,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1566247320,
+            "reply_like_num": 21,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "书房认证，真皮沙发。瓜子花生矿泉水，您请上座~[呲牙][握手]",
+            "openid": "",
+            "create_time": 1619771525,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 21,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 119,
+      "my_id": 2009,
+      "nick_name": "Franny",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Tn1wTBNCRVTBTicCY6ZgQrQoZfiaQz6yIw6T58ECQCMVNu1cktYK7aRz7qicyPHaSNUowJzuvibRt4ibIF77bUEpoHWPZpPicGliccT/132",
+      "content": "老唐和唐嫂生快，希望老唐诙谐的智慧光芒一直照耀我们到188岁[呲牙]",
+      "create_time": 1619772614,
+      "content_id": "6660420791970039769",
+      "like_id": 0,
+      "like_num": 32,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "188岁[捂脸][捂脸]这个只能看科技进步了，靠你我是搞不定的[胜利]",
+            "uin": 3297090136,
+            "create_time": 1619773662,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1550750060,
+            "reply_like_num": 43,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "188岁[捂脸][捂脸]这个只能看科技进步了，靠你我是搞不定的[胜利]",
+            "openid": "",
+            "create_time": 1619773662,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 43,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 67,
+      "my_id": 36,
+      "nick_name": "伏地魔",
+      "logo_url": "http://wx.qlogo.cn/mmopen/TMibAzvwiaV7GjPtib4jGTLDwyU6nWUIicbuoalLmTp0jrJPEXCN0oo5G6UULMYmt31kfhQb1DSXBcyEj4CWibS4Krac4BH41vlbT/132",
+      "content": "老唐好！如果抛开要拓展能力圈的因素，你的持仓会不会过于分散了点[捂脸]",
+      "create_time": 1619771946,
+      "content_id": "6502402330900561956",
+      "like_id": 0,
+      "like_num": 8,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不会呀，这算分散？很多人说我太集中了[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619773418,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1513958520,
+            "reply_like_num": 38,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不会呀，这算分散？很多人说我太集中了[呲牙]",
+            "openid": "",
+            "create_time": 1619773418,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 38,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 260,
+      "my_id": 886,
+      "nick_name": "蜜蜂",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyyWY1AYGKgqbsXczqcjC08ica4e2FurWicQXWnek3NCJvtx33Ay9FGbjuHx9ec5RHWxxtROesK3VH8/132",
+      "content": "给唐书房报喜，2018.10-至今，收益80%，抄作业的，[抱拳][强][强][强]\n\n买蓝色的《价值投资实战手册》，买茅台，高点卖出。其余呆坐持有，吃瓜看戏。卖点卖，买点买。\n\n感谢唐大大无私分享，福报绵长[玫瑰][玫瑰]",
+      "create_time": 1619776785,
+      "content_id": "7239372255937954678",
+      "like_id": 0,
+      "like_num": 37,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 23,
+      "my_id": 84,
+      "nick_name": "刘瑶",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyico12NbBxAzIdU6JFOdtTiaNQNnKA4ictWFMNafx99sM4UG50iaeZNJ9FDu09uNCl1LTicJP6PSYeGlO/132",
+      "content": "作为一个要加班的人，扎心了。唐老师这摆明五一要出去玩，所以提前发了。。。",
+      "create_time": 1619771602,
+      "content_id": "4960772696729190484",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "没。我不会在大假里出门去和别人挤的[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619773256,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1155019900,
+            "reply_like_num": 37,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "哈哈，收到唐老师的回复，加班也开心[呲牙]",
+            "uin": 1155019900,
+            "create_time": 1619776010,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 8,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "为自己和家人的幸福生活而努力加班[呲牙][握手]",
+            "uin": 3297090136,
+            "create_time": 1619776057,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "to_uin": 1155019900,
+            "reply_like_num": 28,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 3
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "没。我不会在大假里出门去和别人挤的[呲牙]",
+            "openid": "",
+            "create_time": 1619773256,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 37,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "哈哈，收到唐老师的回复，加班也开心[呲牙]",
+            "openid": "oWJqFxGAhXA1UxrVY1C1bFHGTKm4",
+            "create_time": 1619776010,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 8,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "刘瑶",
+            "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyico12NbBxAzIdU6JFOdtTiaNQNnKA4ictWFMNafx99sM4UG50iaeZNJ9FDu09uNCl1LTicJP6PSYeGlO/132",
+            "is_from": 3,
+            "author_like_status": 0
+          },
+          {
+            "content": "为自己和家人的幸福生活而努力加班[呲牙][握手]",
+            "openid": "",
+            "create_time": 1619776057,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "reply_like_num": 28,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 4,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 152,
+      "my_id": 13,
+      "nick_name": "阿白",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoWXnYKMjo32nvgsMVeCIh1cLmoAtWHSdGMd1o2lXyIoCwvJKUXibLjylJFaEEHYAnVRgtK874GibRbr3Ce4VGJnB4/132",
+      "content": "老师，今天陕煤暴跌，也可以用这句话解释么？\n“短期股价表现和业绩并没有一一对应关系。它只是市场先生的无厘头情绪体现，只可利用，不可预测。”",
+      "create_time": 1619772927,
+      "content_id": "7246465587700826125",
+      "like_id": 0,
+      "like_num": 25,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "是的。",
+            "uin": 3297090136,
+            "create_time": 1619773886,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1687199247,
+            "reply_like_num": 35,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "是的。",
+            "openid": "",
+            "create_time": 1619773886,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 35,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 139,
+      "my_id": 8,
+      "nick_name": "光仔",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLCQcExxhcKUBXB5GW1POHibibeTV8mG37C7Md63Fr4MicOyA33l9pphrGNic6qwPDWM9WxcvAQuqzwbQg/132",
+      "content": "唐老师，想问一下，您觉得未来泸州老窖和山西汾酒营收和利润能双双超过洋河吗？洋河还能稳居行业第三吗？谢谢",
+      "create_time": 1619772777,
+      "content_id": "759887840464076808",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "双双超，应该还有颇大距离。应该问题不大。",
+            "uin": 3297090136,
+            "create_time": 1619773980,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 176925175,
+            "reply_like_num": 31,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "双双超，应该还有颇大距离。应该问题不大。",
+            "openid": "",
+            "create_time": 1619773980,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 31,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 142,
+      "my_id": 45,
+      "nick_name": "无语",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoXRsZndnyAQMibLxsFvETBEFArYJkQDicw3icuFVcQSpH1iaXZ36tr4qoLm3dSXjGvibrXlGw9H07tKSTOU7hoo4HZar/132",
+      "content": "这周对业绩和短期股价关系的在线课堂感受深刻。洋河已经拿好杯子准备接一点点了，结果飞走；煤业根据此前陕煤集团披露的信息推测利润大致增长比例，计算了一下觉得买点可以略上调一些，提前买入，还想着说不好还能收获大涨，结果很打脸，左边打完打右边。市场先生教育下，以后老老实实的吧[尴尬]",
+      "create_time": 1619772823,
+      "content_id": "7362124568741281837",
+      "like_id": 0,
+      "like_num": 30,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 153,
+      "my_id": 223,
+      "nick_name": "拙劣的赌徒",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45Jibrp2rx6ibsbrABUUTic9ZHGhiczUXK9hECZZbeSVhqVJqEsCxMPLUuCdaicIRkkhibxZlpBAFU8g77Q/132",
+      "content": "又有人会问老唐你什么时候偷偷加仓的洋河[呲牙]",
+      "create_time": 1619772955,
+      "content_id": "5338585078379315423",
+      "like_id": 0,
+      "like_num": 21,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "你猜对了，已经收到四条这种留言了[捂脸][捂脸]",
+            "uin": 3297090136,
+            "create_time": 1619773877,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1242986200,
+            "reply_like_num": 29,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "你猜对了，已经收到四条这种留言了[捂脸][捂脸]",
+            "openid": "",
+            "create_time": 1619773877,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 29,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 146,
+      "my_id": 276,
+      "nick_name": "roc",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoUibJfz0vwicdaKibXOx1DW0e7JZjTQjnl2pDnYgIsyIQMG3HAEfibRK6xCcc4sdvT48nzHEDSf0Iibq6KAbyGPmDicTX/132",
+      "content": "唐老师，如何提高阅读速度，你读书速度嗖嗖滴，质量还高。怎么跟上一点点",
+      "create_time": 1619772848,
+      "content_id": "8423203652331634964",
+      "like_id": 0,
+      "like_num": 6,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "可以不追求快，阅读本身是一种享受，慢点也 无妨[握手]",
+            "uin": 3297090136,
+            "create_time": 1619773923,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1961179928,
+            "reply_like_num": 28,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "可以不追求快，阅读本身是一种享受，慢点也 无妨[握手]",
+            "openid": "",
+            "create_time": 1619773923,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 28,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 234,
+      "my_id": 65,
+      "nick_name": "林延鸿",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLCBtOmkdyCrK65pFea0NjN6BibtuicKFibjMGgf8RiavQ8palGhsbnibGdbTeseI0JMSu6Kye21tcAA3og/132",
+      "content": "老唐，请教个问题哈。按照目前的环保趋势及国家相关政策，长远来看，煤炭的消费量是会压缩的（当然，煤电和其他发电形式会在很长一段时间并存）。而希勒市盈率估值法也要遵循您的那三个前提，那么，陕煤还能符合“盈利是否可持续”这个前提吗？谢谢老唐[玫瑰]",
+      "create_time": 1619775630,
+      "content_id": "1815408265710796865",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "煤炭消费量是压缩的，这个前提是不太正确的。我的理解是：煤炭在能源消费里占比会下降（主要是因为新能源的迅速增长），但绝对数量至少在2030年前还很难看到下降。",
+            "uin": 3297090136,
+            "create_time": 1619775817,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 422682675,
+            "reply_like_num": 27,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "嗯，我也认为，未来5至10年，绝对数量很难下降，但在那之后，是有可能下降的？另外，新能源技术的发展，很难预测，长远看，时间似乎不站在煤炭这边哈。如此，在用现金流折现思维时，是否要进行考虑呢？",
+            "uin": 422682675,
+            "create_time": 1619776402,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "有可能。我也摸索中，给不了你答案。",
+            "uin": 3297090136,
+            "create_time": 1619776433,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "to_uin": 422682675,
+            "reply_like_num": 9,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "嗯嗯。谢谢老唐哈[玫瑰]感觉您真的太牛了，会计、税务知识如此扎实，如数家珍，关键还能够准确用于解决投资问题。我刚过完注会和税务师，自愧不如[流泪]。向您看齐，我争取多学多用，希望哪一天能摸到一下您的脚后跟[加油]",
+            "uin": 422682675,
+            "create_time": 1619776873,
+            "reply_id": 4,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 10,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "客气，大家都是日拱一卒[呲牙][握手]",
+            "uin": 3297090136,
+            "create_time": 1619776914,
+            "reply_id": 5,
+            "is_deleted": 0,
+            "to_uin": 422682675,
+            "reply_like_num": 10,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 5
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "煤炭消费量是压缩的，这个前提是不太正确的。我的理解是：煤炭在能源消费里占比会下降（主要是因为新能源的迅速增长），但绝对数量至少在2030年前还很难看到下降。",
+            "openid": "",
+            "create_time": 1619775817,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 27,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "嗯，我也认为，未来5至10年，绝对数量很难下降，但在那之后，是有可能下降的？另外，新能源技术的发展，很难预测，长远看，时间似乎不站在煤炭这边哈。如此，在用现金流折现思维时，是否要进行考虑呢？",
+            "openid": "oWJqFxKso3vL6erjtG28IlF2rerM",
+            "create_time": 1619776402,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "林延鸿",
+            "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLCBtOmkdyCrK65pFea0NjN6BibtuicKFibjMGgf8RiavQ8palGhsbnibGdbTeseI0JMSu6Kye21tcAA3og/132",
+            "is_from": 3,
+            "author_like_status": 0
+          },
+          {
+            "content": "有可能。我也摸索中，给不了你答案。",
+            "openid": "",
+            "create_time": 1619776433,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "reply_like_num": 9,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "嗯嗯。谢谢老唐哈[玫瑰]感觉您真的太牛了，会计、税务知识如此扎实，如数家珍，关键还能够准确用于解决投资问题。我刚过完注会和税务师，自愧不如[流泪]。向您看齐，我争取多学多用，希望哪一天能摸到一下您的脚后跟[加油]",
+            "openid": "oWJqFxKso3vL6erjtG28IlF2rerM",
+            "create_time": 1619776873,
+            "reply_id": 4,
+            "is_deleted": 0,
+            "reply_like_num": 10,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "林延鸿",
+            "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLCBtOmkdyCrK65pFea0NjN6BibtuicKFibjMGgf8RiavQ8palGhsbnibGdbTeseI0JMSu6Kye21tcAA3og/132",
+            "is_from": 3,
+            "author_like_status": 0
+          },
+          {
+            "content": "客气，大家都是日拱一卒[呲牙][握手]",
+            "openid": "",
+            "create_time": 1619776914,
+            "reply_id": 5,
+            "is_deleted": 0,
+            "reply_like_num": 10,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 6,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 73,
+      "my_id": 28,
+      "nick_name": "乾",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6A335VKDG0EoIyNRlGaX4icW4bTVDYaf0tsbQ41nJmANLCtLSd7f4zCK4jicxbRSoIUd66yQL2eKKA1qwvTsw8aS9/132",
+      "content": "前辈您好。我现在买的有万科，格力，海螺，三一，招商，工商，中国平安和平安银行等。仓位目前都不大，准备随着跌幅而加仓，目前亏了不到1万块钱。我遵循的方法是格雷勒姆的捡烟蒂法。这些股票据我研究安全边际都很大，所以准备长期持有，一年到两年我估计会有较大的获利空间。是不是明年或后年有一波大牛市？\n我是按6~8年长周期来算的。我还配了一堆基金，其中工行瑞银新金融仓位最重，一共挣了4000块钱。我现在最重要的任务是建构投资体系，并且准备获得合理的盈利，不是要那种特大盈利。在沪深300市盈率降到10 11时，市场低估时准备全仓，进入总仓位大约60~70万之间，目前股票15万，基金16万，其它都是银行理财。您对我这种方法有什么评论？请您指教",
+      "create_time": 1619772040,
+      "content_id": "8272397188676452380",
+      "like_id": 0,
+      "like_num": 8,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "没有评论，也谈不上指教[抱拳]",
+            "uin": 3297090136,
+            "create_time": 1619773386,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1926067562,
+            "reply_like_num": 22,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "没有评论，也谈不上指教[抱拳]",
+            "openid": "",
+            "create_time": 1619773386,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 22,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 212,
+      "my_id": 42,
+      "nick_name": "-",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoXRbtx3eFSye23zW3TbOYE9X28N9Oyp2SrHEjQZKwZgr7c9fpYou8DlzNr65uSzGefwmdQicHOibqHYibibfT7DNrUh/132",
+      "content": "老唐你好，你单个股持仓上限40%，想问下单个行业有没有限制呢？会不会出现比如白酒行业持股80%甚至90%",
+      "create_time": 1619774420,
+      "content_id": "6293128941301399594",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "虽然没有准确的限制，但一般来说，我不会集中在一个行业的。",
+            "uin": 3297090136,
+            "create_time": 1619774508,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1465233262,
+            "reply_like_num": 21,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "虽然没有准确的限制，但一般来说，我不会集中在一个行业的。",
+            "openid": "",
+            "create_time": 1619774508,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 21,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 92,
+      "my_id": 9,
+      "nick_name": "索普",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45Dcr1PiaBFZ9DHvQ8YzHVibCdXgNy19zXJmLFnHUFzAE40305tHZFaHlSvtdJvOBsAHdmMNfibfJZ4m/132",
+      "content": "我前几年有赌过钱，赌钱时也经常有用赔率跟概率在思考，老唐，有赌过钱吗，我感觉你对赌钱好内行，是这样子的吗？",
+      "create_time": 1619772270,
+      "content_id": "5641063055052767241",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "偶尔和朋友们打打麻将，基本包输[偷笑]其他的赌博活动没参加过。",
+            "uin": 3297090136,
+            "create_time": 1619773496,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1313412342,
+            "reply_like_num": 20,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "巴芒演绎  里面写的赌博三原则，我以前赌钱的时候似乎就按那标准去做的😂，所以读到的时候特别有感觉 [偷笑][偷笑]",
+            "uin": 1313412342,
+            "create_time": 1619776655,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          }
+        ],
+        "reply_count": 2
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "偶尔和朋友们打打麻将，基本包输[偷笑]其他的赌博活动没参加过。",
+            "openid": "",
+            "create_time": 1619773496,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 20,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "巴芒演绎  里面写的赌博三原则，我以前赌钱的时候似乎就按那标准去做的😂，所以读到的时候特别有感觉 [偷笑][偷笑]",
+            "openid": "oWJqFxAhqcrkCkhl5nkEkb0qfhkM",
+            "create_time": 1619776655,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "索普",
+            "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45Dcr1PiaBFZ9DHvQ8YzHVibCdXgNy19zXJmLFnHUFzAE40305tHZFaHlSvtdJvOBsAHdmMNfibfJZ4m/132",
+            "is_from": 3,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 3,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 326,
+      "my_id": 55,
+      "nick_name": "santhy",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyx6WsaBZPicEP6ia7ohkSLHfRw0Lp1ZibwLQQmqJ0y1VCbb2LNmgmD4xQw8rcln6ZBmVHNKu02T1HvY/132",
+      "content": "消费税是销售公司对外售价（出厂价）的12%+1元/升，，然而  当期征收多少消费税，取决于股份公司当期包装了多少吨商品酒给销售公司。你这两句话不自相矛盾吗？？",
+      "create_time": 1619784875,
+      "content_id": "11734134717513990199",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不矛盾。我理解你卡在哪儿了：销售公司对外售价是个''价''，不需要必须有卖出这个''事实''配合。销售公司没卖出去，税务局照样按照这个''价''对股份公司卖给销售公司的酒征收消费税。",
+            "uin": 3297090136,
+            "create_time": 1619785556,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2732066139,
+            "reply_like_num": 18,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不矛盾。我理解你卡在哪儿了：销售公司对外售价是个''价''，不需要必须有卖出这个''事实''配合。销售公司没卖出去，税务局照样按照这个''价''对股份公司卖给销售公司的酒征收消费税。",
+            "openid": "",
+            "create_time": 1619785556,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 18,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 276,
+      "my_id": 104,
+      "nick_name": "超人",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyib9UEDUticKtibTHtEtClDcvRticKCS7YMaXRBXlSj7go4x18xGL6rcpJzKMZxiavpZjOIukUqylIK6W/132",
+      "content": "唐老师您好！为何古井贡更接近您的买点，而您重仓洋河？",
+      "create_time": 1619778059,
+      "content_id": "5448703491478388840",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "还能为啥，因为换不到足够的港币呗[调皮]",
+            "uin": 3297090136,
+            "create_time": 1619778198,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1268625141,
+            "reply_like_num": 18,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "还能为啥，因为换不到足够的港币呗[调皮]",
+            "openid": "",
+            "create_time": 1619778198,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 18,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 312,
+      "my_id": 27,
+      "nick_name": "禅师",
+      "logo_url": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEIibo2AzTnOureFKFvNQUjwLLEBAb1Xwandn4Dh7wof1A5y0tibXaftMp15GpbofPNQhHhtaJkYyJg85S2HEG1uhJxFur9d0u84g/132",
+      "content": "每次看到老唐“肉身趟雷”，都非常羡慕啊，时间可以自由支配，大量阅读，一般人可没有这个财力与时间！今年快50%收益了，终于第一次超过了自己一年的工资收入，希望能继续“复利”下去，早日实现从繁琐的“体制”中逃离出来，像老唐一样，自由地生活！",
+      "create_time": 1619782988,
+      "content_id": "3217470042790690843",
+      "like_id": 0,
+      "like_num": 15,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "恭喜恭喜[呲牙][强]",
+            "uin": 3297090136,
+            "create_time": 1619783195,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 749125621,
+            "reply_like_num": 11,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "恭喜恭喜[呲牙][强]",
+            "openid": "",
+            "create_time": 1619783195,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 11,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 222,
+      "my_id": 1,
+      "nick_name": "学无止境",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoWOBN1eRrqh8cs8RD2w8xNeBibODsDAOWbYdxZ4hIeWtiaSl5EpO2bvicicQ13WTr8bymVmY1OD22ib45dE93jZ3fHY3/132",
+      "content": "请问老唐，如果洋河继续上涨使得您的持仓超过25%，您会降低持仓比例吗？比如涨至持仓超过30%，谢谢！",
+      "create_time": 1619775095,
+      "content_id": "8609225944416124929",
+      "like_id": 0,
+      "like_num": 4,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不会。",
+            "uin": 3297090136,
+            "create_time": 1619775197,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2004491618,
+            "reply_like_num": 15,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不会。",
+            "openid": "",
+            "create_time": 1619775197,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 15,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 211,
+      "my_id": 6,
+      "nick_name": "老白",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoWY5FTLQjER4g47hlOXqUYJbn7yhWWSGobNSibNko8iaabntCr3QPtGaX77gZDpoMbyejFuQqiafbROj4PUBrlexHE/132",
+      "content": "一堂精彩绝伦的实时在线教学课，但如果学生上课睡着了，下课还不停的追着问，真是“无言”以对。键盘上留下一摊老血[捂脸][捂脸]",
+      "create_time": 1619774312,
+      "content_id": "6669439355708243974",
+      "like_id": 0,
+      "like_num": 15,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 264,
+      "my_id": 920,
+      "nick_name": "大宇",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyz5eHY2VKI2DLhcRMicOibRzXvCIJ3EIJjkVkZpdQf9dp6ylVfHj3iahyqO8dAL2gIWq1HnwJ0J0f1H/132",
+      "content": "老师，茅台和海康威视的市值都比三年后的估值还高，是不是说明已经透支了？",
+      "create_time": 1619776915,
+      "content_id": "11670683108360848280",
+      "like_id": 0,
+      "like_num": 6,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "对呀，我就是这么理解的，所以这两只股票我均已在春节前大幅减仓[调皮]",
+            "uin": 3297090136,
+            "create_time": 1619777007,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2717292660,
+            "reply_like_num": 14,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "对呀，我就是这么理解的，所以这两只股票我均已在春节前大幅减仓[调皮]",
+            "openid": "",
+            "create_time": 1619777007,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 14,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 88,
+      "my_id": 48,
+      "nick_name": "Mayi",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy8XQiaQSWAxCSXtWUm69lCoIMLJyv8w61x3CnFnHWiaNUp5Uf8KbTObdibp3jPSrnSiaWyibWobr2nDTb/132",
+      "content": "老唐真巧，也在看林语堂的《苏东坡传》，发现苏东坡读书也是用的笨办法学习，比如抄写背诵整本书籍，于是我也在照着您过去的分析文章练习分析企业，把您背后的逻辑都搞懂，等我练得滚瓜乱熟了，企业分析技能应该会大有长进。谢谢您提供了这些经典案例供我们临摹练习。[抱拳][抱拳][抱拳]",
+      "create_time": 1619772223,
+      "content_id": "6335720061801594928",
+      "like_id": 0,
+      "like_num": 13,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 250,
+      "my_id": 1110,
+      "nick_name": "不明真相的宝宝",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWywK0Vic6pIe4N6UTiaIddu5XzmvPTFAptPaOpURRxhS5KBvGB2AXRopuLbT0Vsg34NkIY0AE25iajSk/132",
+      "content": "您好，我是新朋友[呲牙]。想请教一下您买入恒生ETF的逻辑，从估值上看，恒生现在很高。按我的投资逻辑，现在应该卖出啊。如果真的下跌15-20% 您不心疼吗？\nPE十年百分位 96.6% 。。。。。\n\n我是您文章里的A类投资者，过去几年用这套方法没有亏损，也赚了不少。\n\n没有任何其他的意思，只是探讨和交流[握手]",
+      "create_time": 1619776274,
+      "content_id": "10717811718588728406",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "回看2021年1月9日书房文章次条。",
+            "uin": 3297090136,
+            "create_time": 1619776386,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2495435001,
+            "reply_like_num": 11,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "回看2021年1月9日书房文章次条。",
+            "openid": "",
+            "create_time": 1619776386,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 11,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 355,
+      "my_id": 28,
+      "nick_name": "hei",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45BwHMc23eLicZssLevtqp78WssYD98BRvjic3jPly77icGvPFLnDcDKFKQq7ibn3U5OFnUGqkGeFC3ia5/132",
+      "content": "跑步呢？除皮净重呢？这周报涉嫌重要信息披露不完整。",
+      "create_time": 1619789097,
+      "content_id": "11134306903578902556",
+      "like_id": 0,
+      "like_num": 10,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "本周刚从外地回来，加上过生，偷懒没跑步[偷笑]",
+            "uin": 3297090136,
+            "create_time": 1619789373,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2592407843,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "本周刚从外地回来，加上过生，偷懒没跑步[偷笑]",
+            "openid": "",
+            "create_time": 1619789373,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 240,
+      "my_id": 186,
+      "nick_name": "曾令芳",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45HPia3lmJdowejattNBtTqeglb2AwTdDafSZuyyHiaPz6aZ0fJqcGocrGg3Q0If8ibVRBR17x0QtMvs/132",
+      "content": "老师，洋河2020一季度因为疫情扣非净利惨不忍睹，2021疫情好转，多数上市白酒企业尤其是高端白酒都实现了高增长，洋河与2019年持平，说不上超预期吧？当然是否有隐藏利润不得而知，只能说还没有看到比较明显的业绩拐点，结果股价确实大涨，反过来陕煤业绩爆表缺大跌，是不是可以理解为赛道不一样，待遇不一样[疑问]",
+      "create_time": 1619775979,
+      "content_id": "12721664874162159802",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "我不懂什么叫赛道，回答不了你的问题。",
+            "uin": 3297090136,
+            "create_time": 1619776016,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2961993421,
+            "reply_like_num": 10,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "我不懂什么叫赛道，回答不了你的问题。",
+            "openid": "",
+            "create_time": 1619776016,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 10,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 229,
+      "my_id": 89,
+      "nick_name": "Han",
+      "logo_url": "http://wx.qlogo.cn/mmopen/18EHDd336gTtXQ8uczsrklCtcNR0iasA18ib1aUibLowp4aJfyNQzBxj5QXkbOmbsV5DVficW9cVPplia7ibmn9eI8wdFvfvPwKBic9/132",
+      "content": "管他涨与跌，反正我能确保无论陕煤也好，洋河也罢，在白天，在夜里，在梦里都能为股东创造超额价值就行了。[偷笑]",
+      "create_time": 1619775350,
+      "content_id": "8365234272579092569",
+      "like_id": 0,
+      "like_num": 10,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 25,
+      "my_id": 25,
+      "nick_name": "隆鑫",
+      "logo_url": "http://wx.qlogo.cn/mmopen/TMibAzvwiaV7GjPtib4jGTLDiccOIpT3bx1KffwVdDxtvxXT4DThibEf2hMmwgdROIpC2a2xeKTQZTMn6XWiajzdHnNQrIOEVQvibCb/132",
+      "content": "唐老今天下午就开聊[奸笑]",
+      "create_time": 1619771610,
+      "content_id": "8351390738285592601",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "这样，大家晚上就可以放心出去嗨皮了噻[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619773299,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1944459681,
+            "reply_like_num": 10,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "这样，大家晚上就可以放心出去嗨皮了噻[呲牙]",
+            "openid": "",
+            "create_time": 1619773299,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 10,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 372,
+      "my_id": 43,
+      "nick_name": "刘建伟",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45Fa2Uiab2T3MzSxJXVt2CCSPez2aAUs8RCmaW0nSOiaVFRwhPPf8LQ4zRkbHc9GialUticUG49HVKN14/132",
+      "content": "唐师，看洋河20年年报第7页分季度财务指标，一季度营收93亿，净利40亿，净利率43%左右，二季度营收42亿净利14亿，净利率33%，三季度营收55亿净利18亿，净利率33%，四季度营收22亿净利3亿，净利率14%，每个季度的净利率相差这么大是什么原因造成的呢？",
+      "create_time": 1619796305,
+      "content_id": "12273226312289615915",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "一三季度是白酒经营的旺季，为春节备货，为中秋国庆备货。二四季度是传统淡季。",
+            "uin": 3297090136,
+            "create_time": 1619796795,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2857583182,
+            "reply_like_num": 9,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 2
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "一三季度是白酒经营的旺季，为春节备货，为中秋国庆备货。二四季度是传统淡季。",
+            "openid": "",
+            "create_time": 1619796795,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 9,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 196,
+      "my_id": 12,
+      "nick_name": "画尽天下彼岸花",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoUQRQlddqA9CjXDlsMbwH4fMSXsqQpgvnmuTVFgA50hMspdbicN3Qu7XNJGX0UbsQBWfuhL2CbJfxTGkO4ztmbPP/132",
+      "content": "正好最近在看白酒增值税、消费税、附加税之类的内容，通过这个示例终于看懂了估值方法里用营业收入×15%税是怎么来的[强][强][强]",
+      "create_time": 1619773846,
+      "content_id": "5819944564575698956",
+      "like_id": 0,
+      "like_num": 9,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 2,
+      "my_id": 676,
+      "nick_name": "刘浩冉",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTukvia71GE9Lz7Dj2bzHv4icScO5shscRyOLVczGQSyBK5TiayuxJGClnk1qBP3fMlgNibV0O3zrr2FZm/132",
+      "content": "《巴芒演义》-普通投资者获得真知的“工具书”",
+      "create_time": 1619771486,
+      "content_id": "7346288500334920356",
+      "like_id": 0,
+      "like_num": 9,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "黄花梨板凳，您请。从板凳之后的留言，17点来上墙和回复，各位慢慢看，不着急~[握手]",
+            "uin": 3297090136,
+            "create_time": 1619771541,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1710441080,
+            "reply_like_num": 9,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "黄花梨板凳，您请。从板凳之后的留言，17点来上墙和回复，各位慢慢看，不着急~[握手]",
+            "openid": "",
+            "create_time": 1619771541,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 9,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 265,
+      "my_id": 3,
+      "nick_name": "洋洋",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH6f1oGdheYCpW2hvAXvAk3nOz0R6UEUIDqmQu35cCn5xggdnoPhBcctzV9UqeOENOoOTpFZbviaDSJEU1XiagP0zP/132",
+      "content": "唐老师，请问茅台税收计算城建税等三个附加税时，怎么没有考虑增值税和消费税的进项抵扣呢，应该是增值税和消费税销项减进项后的实缴金额来计算附加的三税吧，难道是从农户收的高粱取不得进项税票吗，可是年报营业成本也有81.5个亿，对应进项税也不少吧？谢谢。",
+      "create_time": 1619777240,
+      "content_id": "8346110299333459971",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "茅台进项税极低，可以直接忽略掉。消费税没有抵扣。",
+            "uin": 3297090136,
+            "create_time": 1619777324,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1943230233,
+            "reply_like_num": 8,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "茅台进项税极低，可以直接忽略掉。消费税没有抵扣。",
+            "openid": "",
+            "create_time": 1619777324,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 8,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 218,
+      "my_id": 8,
+      "nick_name": "亮出精彩",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWyxbgfZzjol7micRAcOAiaXNABW6RofPCPcR8SuCYfqu4VzWeT0sQTSbcGNbXusazVap1RV97m2MNBh/132",
+      "content": "有媒体报道近期茅台厂区内非功能性办公区域准备异地搬迁 您怎么看？",
+      "create_time": 1619774982,
+      "content_id": "12538318213559091208",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "说好久的事情了。好事儿，尽最大可能给生产和储存让地方。",
+            "uin": 3297090136,
+            "create_time": 1619775333,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2919304700,
+            "reply_like_num": 8,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "说好久的事情了。好事儿，尽最大可能给生产和储存让地方。",
+            "openid": "",
+            "create_time": 1619775333,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 8,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 210,
+      "my_id": 36,
+      "nick_name": "脑菇",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy9HYRcc4JM60FjlTHUvppicibCvXxdojQJNNCL6IYr9BVHE7ZQGKZ1qB3bWKHHR2Hl8n4qyHMc6iaA5/132",
+      "content": "请问唐师：1、按自由现金流的估值原则，参考您点杀水泥的估值思路，一家周期类企业符合三个前提条件，以十年平均分红值为基数按25倍市盈得出的结果若高于股价，得出股价低估的结论。这种思路是否有可取之处？\n2、请问：按自由现金流估值原理，任何一家企业，真正懂了测算出基本真实的自由现金流，是否估值就是这个值乘以无风险收益率的倒数？\n3、按逻辑，分红金额正常而言应不高于自由现金流，以此为下限计算估值下限是否可取？",
+      "create_time": 1619774275,
+      "content_id": "9246399559846854692",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "1.有。2.自由现金流估值是一种选股思路，不是计算方式。3.这个不一定。",
+            "uin": 3297090136,
+            "create_time": 1619774465,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2152845161,
+            "reply_like_num": 8,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "1.有。2.自由现金流估值是一种选股思路，不是计算方式。3.这个不一定。",
+            "openid": "",
+            "create_time": 1619774465,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 8,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 204,
+      "my_id": 12,
+      "nick_name": "阿甘",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy4CCFWfiaDQtBgm29XpySVmiadArI7yCPxFZibxJGI3toPnXSFxBHys1B2YEnH4g2auCslvvDTvwZf8/132",
+      "content": "问一下实盘周记里的年内涨幅是个股自身的涨幅还是老唐个股收益的涨幅？",
+      "create_time": 1619774104,
+      "content_id": "6904157437238968332",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "个股自身的年内涨幅。",
+            "uin": 3297090136,
+            "create_time": 1619774291,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1607499420,
+            "reply_like_num": 8,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "个股自身的年内涨幅。",
+            "openid": "",
+            "create_time": 1619774291,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 8,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 22,
+      "my_id": 2344,
+      "nick_name": "星光《BEYOND》คิดถึง",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH47O6j71MTWxpyj7ibBwo96h5ZeMh6ZpZDaPibAQvnia6DEnsQibzg8utKJAmX6r6Wuq6gAEdicZXMDkyicySZROMXBnT/132",
+      "content": "7.本周无读书笔记入选。[流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪][流泪]我想静静。",
+      "create_time": 1619771597,
+      "content_id": "1848504081102932264",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "码字的过程，其实已经是巨大收获了，对不？[呲牙][握手]",
+            "uin": 3297090136,
+            "create_time": 1619771644,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 430388395,
+            "reply_like_num": 8,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "确实，我也感受到了输出倒逼输入的威力，，，我在好好酝酿一下，争取下次能提交出高质量的读后感[加油]",
+            "uin": 430388395,
+            "create_time": 1619771890,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 3,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          }
+        ],
+        "reply_count": 2
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "码字的过程，其实已经是巨大收获了，对不？[呲牙][握手]",
+            "openid": "",
+            "create_time": 1619771644,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 8,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "确实，我也感受到了输出倒逼输入的威力，，，我在好好酝酿一下，争取下次能提交出高质量的读后感[加油]",
+            "openid": "oWJqFxLZV3CxgLIrIH9001L3miVM",
+            "create_time": 1619771890,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 3,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "星光《BEYOND》คิดถึง",
+            "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH47O6j71MTWxpyj7ibBwo96h5ZeMh6ZpZDaPibAQvnia6DEnsQibzg8utKJAmX6r6Wuq6gAEdicZXMDkyicySZROMXBnT/132",
+            "is_from": 3,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 3,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 393,
+      "my_id": 10,
+      "nick_name": "gps定位器【10店】",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH4kShicW7hWsG9oVsxAcEWUicJYgEODs1WackV4u2qdLpbfwCDP66uFicibicibL6ibwsZzAX8eeFRIniapjG2YiczPJegTW/132",
+      "content": "老唐自从你60多卖了上机现在都49了，只要疫情结束上海机场还会回来的，这个价格有吸引力吗",
+      "create_time": 1619831173,
+      "content_id": "352008557438173194",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "第一，纠正一下卖价，不是60多卖出的，是71.1卖出的。第二，我对疫情发展暂无判断能力，当下的上机，对我来说属于太难的类型，暂无跟踪的打算。",
+            "uin": 3297090136,
+            "create_time": 1619831742,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 81958379,
+            "reply_like_num": 7,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "第一，纠正一下卖价，不是60多卖出的，是71.1卖出的。第二，我对疫情发展暂无判断能力，当下的上机，对我来说属于太难的类型，暂无跟踪的打算。",
+            "openid": "",
+            "create_time": 1619831742,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 7,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 390,
+      "my_id": 62,
+      "nick_name": "carefree",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy8UU3UVLc8iceyBWkub8ExPfJNIkkYQ13BwuS7LCZHWPQCMBhQP39Ope8hdHEUdhiard3K8rZBfDKh/132",
+      "content": "唐老师，有个无关痛痒的小问题，贵州茅台我按12.56亿股的股本，算出来市值为25205。",
+      "create_time": 1619828558,
+      "content_id": "12007128426600202302",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "那你就按照1256197800股重算一次好了[奸笑]",
+            "uin": 3297090136,
+            "create_time": 1619828825,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2795627440,
+            "reply_like_num": 7,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "那你就按照1256197800股重算一次好了[奸笑]",
+            "openid": "",
+            "create_time": 1619828825,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 7,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 334,
+      "my_id": 16,
+      "nick_name": "轻轻微笑",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6AxrCJpnHKbddia2Y58UFWnVxicnVtVQGMynyhsVmRgKuHWicib8aOfLiavDUUt87CaKOnslsFZqFiaJU7g/132",
+      "content": "回留言里的读者，陕煤今天跌有毛利率下降的原因吧，由百分之四十几掉到百分之二十几，今天看了下年报，说是运输费之前在销售费用里，，按政策调整到营业成本里了。",
+      "create_time": 1619785924,
+      "content_id": "595662636255805456",
+      "like_id": 0,
+      "like_num": 7,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "嗯，这是会计准则要求的。新手财里讲过。",
+            "uin": 3297090136,
+            "create_time": 1619786195,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 138688515,
+            "reply_like_num": 7,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "嗯，这是会计准则要求的。新手财里讲过。",
+            "openid": "",
+            "create_time": 1619786195,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 7,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 243,
+      "my_id": 105,
+      "nick_name": "运东",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoVRyFg5ibbT3Y08fMbk7nKBJOEiawCpyJqGW1dAdIDd3BDYNejA9icMWPbC3HlEgRGYRXlvHnQaFSz4Rw22DQwuAOX/132",
+      "content": "唐老师，投资理财收益比预期的少了2.4亿。您说，是不是因为原来作为获取固定收益的一部分信托，转为了（卖掉原先的转买）采用公允价值投资的信托，造成了投资收益少，公允价值变动提高，其实整体来说，信托带来的受益是没变的？",
+      "create_time": 1619776039,
+      "content_id": "4760375187759693929",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不太清楚，一季报没有披露详细，不好猜[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619776172,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1108361219,
+            "reply_like_num": 6,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不太清楚，一季报没有披露详细，不好猜[呲牙]",
+            "openid": "",
+            "create_time": 1619776172,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 6,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 207,
+      "my_id": 36,
+      "nick_name": "Holly_辉",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vRcthNSFhmDurIkemibg5q67ZQSmH6yBic4JmjeiazHt47JporRxaTialUMVbEhylOhUWCyhAIqnIN8ic1oxQAWt3n5L/132",
+      "content": "有些人走稳，有些人走势，势有强有弱，稳无多无空，自己总在趋势加强上试图精进，价投作为基底，加上券商策略研究的行业景气度比较，宏观经济的大势分析，成绩虽不错，但略疲惫。所以老唐能长期实现稳定盈利，大概就像曾国藩似的结硬寨打呆仗，取胜是耐力、能力和自制力的组合，围棋里通盘无妙手大概也是这个意思吧！有时候持续的小胜或者部分的败是为了更大的胜。",
+      "create_time": 1619774186,
+      "content_id": "12084623895911464996",
+      "like_id": 0,
+      "like_num": 6,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 198,
+      "my_id": 58,
+      "nick_name": "黑牛",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6CNeKwv42pyWH6lfWcLqicAfRsYQny9uuFF1s6VsjFGKpUYYVSFFgiaL3H4VjWSauic73Fvk5gFduVLg/132",
+      "content": "老唐对旗下非控股子公司的了解，那真是了然于胸，娓娓道来，该夸的夸，该批的批，指点江山，激扬文字，挥斥方遒呀！[鼓掌][鼓掌][鼓掌]",
+      "create_time": 1619773932,
+      "content_id": "658005804544163898",
+      "like_id": 0,
+      "like_num": 6,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 191,
+      "my_id": 219,
+      "nick_name": "封波",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6B5jLUTt4HytKNSkY7khiajDDYnno3F9wJ3LVT5ksnYgcdWy543oAHqg0iadetGbjttKdcRYa8claww/132",
+      "content": "老唐，b股的流动性会不会很差？是否慢慢会退市？",
+      "create_time": 1619773655,
+      "content_id": "3180560807540818139",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不操心这个。无所谓的事情。",
+            "uin": 3297090136,
+            "create_time": 1619774227,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 740532020,
+            "reply_like_num": 6,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不操心这个。无所谓的事情。",
+            "openid": "",
+            "create_time": 1619774227,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 6,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 178,
+      "my_id": 43,
+      "nick_name": "lei",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH5mb0NXuXmAsyqRn072ibv95WHeiagWWa00j3ibRjlcCf8lpdmwZcSeYDVDeLNmMGe3EktRadEFsx1Qw/132",
+      "content": "我在英为财情网看到中国10年期国债收益率现在是3.210，是不是可以理解为无风险利率为3%，所对应的PE为30倍",
+      "create_time": 1619773420,
+      "content_id": "1798263636733460523",
+      "like_id": 0,
+      "like_num": 4,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "差不多。25~30吧。",
+            "uin": 3297090136,
+            "create_time": 1619774019,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 418690880,
+            "reply_like_num": 6,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "差不多。25~30吧。",
+            "openid": "",
+            "create_time": 1619774019,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 6,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 143,
+      "my_id": 80,
+      "nick_name": "Wal walker",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45FIw0icicRwE1SiapWRSvX3cao644RGhHTMia2aSbnviaQvLGUgVIfWcmKW7Q5fxib7UE23h9Xlkmvib2T8/132",
+      "content": "那么古井贡六月底还是按计划估值上调10%吗？",
+      "create_time": 1619772831,
+      "content_id": "11495326207914803280",
+      "like_id": 0,
+      "like_num": 6,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "是。",
+            "uin": 3297090136,
+            "create_time": 1619773947,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2676464200,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "是。",
+            "openid": "",
+            "create_time": 1619773947,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 106,
+      "my_id": 206,
+      "nick_name": "FLJ",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLBD0RzI10IOsxcenAhlic0jHUibiby8icPZFpcJmO9Kibjxf4XnCeEbibpzYXPf8LLy14sC40gwLcqnUEUg/132",
+      "content": "看到各类网络媒体惊呼阿茅一季报爆雷，本来想着这个“雷”能不能顺势给到买入点。腾讯那个好像看到有新闻说是罚款50万，但是内容没有说音乐，不知道有没有后续。",
+      "create_time": 1619772445,
+      "content_id": "3493197833568256206",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "应该不是指的同一个事儿。",
+            "uin": 3297090136,
+            "create_time": 1619773754,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 813323500,
+            "reply_like_num": 6,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "应该不是指的同一个事儿。",
+            "openid": "",
+            "create_time": 1619773754,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 6,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 383,
+      "my_id": 92,
+      "nick_name": "碎花洋裙",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTuj6oY7qgDKReGwfkPJiaNdHxsKHmdFDiaSQpic2GmpvhzbibcLVnkj1MkfmnlggY6s8fVkHO74zL0dicic/132",
+      "content": "自从关注了老唐之后，并且从自己割肉洋河开始，我就觉得，我应该不能再去各种“韭菜”群了，决定，五一在家好好看看老唐的书，取关一些博主，退出一些群，删掉股吧等各种软件。",
+      "create_time": 1619822685,
+      "content_id": "5490348099970793564",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 344,
+      "my_id": 56,
+      "nick_name": "懵懵懂懂悟悟",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5j3CcO8RBnokhJKPbORhhHAkdMv6AyTEfTmpqG9admPN8QWXkWwkXaGRGOEvK14ZbtcfkZmZE57w/132",
+      "content": "老唐老师我想请问下，洋河投了一堆高收益信托，我觉得今年一季报带来收益，以后会不会暴雷，给业绩造成影响？？还有这些信托收益太高，的确让人很担心？老唐老师觉得呢？",
+      "create_time": 1619787899,
+      "content_id": "2737408933797822520",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "看去年12月 3日的文章《洋河超百亿的投资和理财，藏的有雷吗？》",
+            "uin": 3297090136,
+            "create_time": 1619787971,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 637352684,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "这篇我之前看过了，竟然给忘记了，刚才又看了一遍，非常同意你的观点，谢谢",
+            "uin": 637352684,
+            "create_time": 1619788433,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 2,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          }
+        ],
+        "reply_count": 2
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "看去年12月 3日的文章《洋河超百亿的投资和理财，藏的有雷吗？》",
+            "openid": "",
+            "create_time": 1619787971,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "这篇我之前看过了，竟然给忘记了，刚才又看了一遍，非常同意你的观点，谢谢",
+            "openid": "oWJqFxKhVULINDBBPWXcKA6cwnFA",
+            "create_time": 1619788433,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 2,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "懵懵懂懂悟悟",
+            "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5j3CcO8RBnokhJKPbORhhHAkdMv6AyTEfTmpqG9admPN8QWXkWwkXaGRGOEvK14ZbtcfkZmZE57w/132",
+            "is_from": 3,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 3,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 213,
+      "my_id": 304,
+      "nick_name": ".",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTupHmMyeE2Ij2hCNFpjsJicWvfDpyQuHS493XhcibvudJLCzzEEkpBngbJeUq46fRp4Jy1aqWTiaQtEK/132",
+      "content": "数字货币相关股票值得买吗？",
+      "create_time": 1619774465,
+      "content_id": "5014728996479303984",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "我不懂。",
+            "uin": 3297090136,
+            "create_time": 1619774479,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1167582580,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "我不懂。",
+            "openid": "",
+            "create_time": 1619774479,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 120,
+      "my_id": 11,
+      "nick_name": "鳄鱼",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vSOWbzfaSvSTia7sibOQxw4qpTyyfvt3cbJjvrSRnupKuf5DNWBf5fAWcfwH0wNSLK7Pt0IicfDH1ROkicmOKNjeOgm/132",
+      "content": "老唐，你的实盘点位，2330.03点怎么计算的？[呲牙]",
+      "create_time": 1619772625,
+      "content_id": "7146360006089113611",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不是计算的，直接采用和沪深300指数当日数值作为起点。这个也会看不懂吗？[疑问]",
+            "uin": 3297090136,
+            "create_time": 1619773607,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1663891600,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不是计算的，直接采用和沪深300指数当日数值作为起点。这个也会看不懂吗？[疑问]",
+            "openid": "",
+            "create_time": 1619773607,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 85,
+      "my_id": 19,
+      "nick_name": "Daniel_F",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH47O6j71MTWxhzaJT0qpbicDJhUYlb2KFmot0H8TqhfMbTh3y8o7P7GyVD9r2kbPzFCh6G0NdsTXGnSmAX38OQ1I/132",
+      "content": "唐老师的周记真是及时雨，下午正在看洋河一季度关于中银证劵期初账面价为什么跟股价对不上，刚好还了20%这么整的数字，现在看到答案了[呲牙][呲牙]",
+      "create_time": 1619772192,
+      "content_id": "3024843418149847059",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 56,
+      "my_id": 9,
+      "nick_name": "WQ",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLDH1uEib3fdkJCR1bzEPEwicFlq62nZAiaZzd8MgMicuM8QlibmrkUvjvMZc3NftBujBuic75Iict7jMdvFFLwqW22FWrVhRXAQFhcrL0/132",
+      "content": "本来还想问问陕西煤业为什么跌，是我太年轻了～",
+      "create_time": 1619771859,
+      "content_id": "10144223925744173065",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 24,
+      "my_id": 17,
+      "nick_name": "王旭",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLC4SibfVEDiaEJwLicRc30JZibOXowBJwTAB7Wq7sBeoV8VzheHwUMic5j5HRwkfiaDI1syQzEkc1GHUyMw/132",
+      "content": "老唐怎么看中国平安啊，会买平安的股票吗？",
+      "create_time": 1619771605,
+      "content_id": "1629398815578521617",
+      "like_id": 0,
+      "like_num": 5,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "向书房发送“平安”，提取四年前写的一个保险系列。",
+            "uin": 3297090136,
+            "create_time": 1619773274,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 379373975,
+            "reply_like_num": 5,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "向书房发送“平安”，提取四年前写的一个保险系列。",
+            "openid": "",
+            "create_time": 1619773274,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 5,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 249,
+      "my_id": 42,
+      "nick_name": "寒玉",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH5680nibyIdUxxSUNy4kicslVB9xTiciadTr3iacmO5w4eyPzT3icILOuRFVKibXcjFDv41CMFicpicLrujo2zZssev9ichIu/132",
+      "content": "唐老师您好  我最近在啃洋河19年的年报。年报第四节投资状况分析里面以公允价值计量的金融资产我看不明白。比如说股票初始投资成本4.25亿，期末金额3.3亿，这不明显赔钱了吗！为什么本期公允价值变动收益和累计投资收益都为正。我哪里理解错了呢？",
+      "create_time": 1619776254,
+      "content_id": "12170822824390295594",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "哪里都理解错了。请先回看去年的《洋河超百亿的投资和理财，藏得有雷吗？》一文。",
+            "uin": 3297090136,
+            "create_time": 1619776309,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2833740512,
+            "reply_like_num": 4,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "哪里都理解错了。请先回看去年的《洋河超百亿的投资和理财，藏得有雷吗？》一文。",
+            "openid": "",
+            "create_time": 1619776309,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 4,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 238,
+      "my_id": 51,
+      "nick_name": "早睡早起",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vQlgHmXz9cm96RicGoqvmuWMJpgyb9TWv6aUfrfjpUM9KRdV8WgLdbDjiaGMgSpq4F6T8pXuK7IXBKL0FUvVVyz1L/132",
+      "content": "老师，请问您不买平安是因为不想碰业务太复杂的公司还是因为详细研究之后认为平安不值得投资",
+      "create_time": 1619775948,
+      "content_id": "14794274885571969075",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "向书房发送“平安”，读2017年旧文。都写在那里的。",
+            "uin": 3297090136,
+            "create_time": 1619775986,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 3444560544,
+            "reply_like_num": 4,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "向书房发送“平安”，读2017年旧文。都写在那里的。",
+            "openid": "",
+            "create_time": 1619775986,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 4,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 203,
+      "my_id": 37,
+      "nick_name": "杨姚斌",
+      "logo_url": "http://wx.qlogo.cn/mmopen/TMibAzvwiaV7GjPtib4jGTLD2O1fIkyO4f8rGPAQFIQ0MXv289JTC5OeXJeAwbLG9FY1UUEXpstOQnVLwibM4JpJx5tI5wuic4Lqm/132",
+      "content": "老唐生快\n请教个问题：茅台的消费税跟出厂价有关，出厂价又是卖给自家销售公司，为啥不把价格拉的低低的，降低这个消费税呢。是社会责任吗？",
+      "create_time": 1619774104,
+      "content_id": "8036577791631687717",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "向书房发送“消费税”，看前年的科普文章。",
+            "uin": 3297090136,
+            "create_time": 1619774310,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1871161580,
+            "reply_like_num": 4,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "向书房发送“消费税”，看前年的科普文章。",
+            "openid": "",
+            "create_time": 1619774310,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 4,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 165,
+      "my_id": 98,
+      "nick_name": "Havid",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vSYzAbibO1Y3oQyCUCDiap3sxL8SuXVlAbLt6EyEFHmZPSYJtwaevWNdyUeg4XB8XbtRCU6rB3eicPy3SWsgicEJG77/132",
+      "content": "节日快乐，希望有朝一日也能做到这种用&quot;小学以内加减法&quot;作投资的地步...",
+      "create_time": 1619773227,
+      "content_id": "960583158170910818",
+      "like_id": 0,
+      "like_num": 4,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 83,
+      "my_id": 23,
+      "nick_name": "北斗星斜",
+      "logo_url": "http://wx.qlogo.cn/mmopen/PGlibxt1LIBfcxSyqbkDlUSQ6fdSjTibeSAicohtRZ2JOj3ZISgIomrHEvCOKGg4mgPgaSrJwQTuW8PPib9uibrL0j8aXFSpQ30Sq/132",
+      "content": "市场先生出价只可以利用，不能被预测。离市场远一点，再远一点，不以跌悲，不以涨喜，紧盯公司价值（赚钱能力是价值体现）。",
+      "create_time": 1619772178,
+      "content_id": "9806821267884474391",
+      "like_id": 0,
+      "like_num": 4,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 392,
+      "my_id": 132,
+      "nick_name": "诗酒一生",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLBTsLCr1TniaI9WRkJCdkh0j0xZQ217WFE0sjaSIuQ4I7A1YQWjB0WmYykQ1fScHcJbcUjS96qz2bw/132",
+      "content": "唐兄，昨晚梦见你了！亲切有趣，还给我的印章版《巴芒演义》补了签名。你还带着一位女秘书（或者是唐嫂），让你看了我的持仓提点意见，你看的很仔细，但是看完什么话都没有说。其他聊的很愉快，临走时还跟我开了有意思的小玩笑。之后我迫不及待的告诉几个投资朋友我见到了你，忽然想到我的账户有两融持仓肯定被你看到了，瞬间羞愧万分，觉得对不起你的谆谆教诲，然后就醒了给你写了这个留言。\n最近两天正在复读夹头手册，唐兄，是你改变了我的人生轨迹，真心感谢你！\n还有两融持仓的事我一定改，再次感谢你的鞭策与鼓励！",
+      "create_time": 1619830205,
+      "content_id": "1146843949789347972",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "哈哈哈，这么细啊😂[握手]",
+            "uin": 3297090136,
+            "create_time": 1619830971,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 267020415,
+            "reply_like_num": 1,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "[捂脸]好不容易见一次，必须很细节呀。看你比我想象中的要瘦，看来最近没少跑步和游泳[呲牙]",
+            "uin": 267020415,
+            "create_time": 1619831774,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_like_num": 3,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "😂[握手]为什么我做了梦，只要一起床就想不起来了？[疑问]",
+            "uin": 3297090136,
+            "create_time": 1619831851,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "to_uin": 267020415,
+            "reply_like_num": 2,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 3
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "哈哈哈，这么细啊😂[握手]",
+            "openid": "",
+            "create_time": 1619830971,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 1,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "[捂脸]好不容易见一次，必须很细节呀。看你比我想象中的要瘦，看来最近没少跑步和游泳[呲牙]",
+            "openid": "oWJqFxGkVZeMvSGIOEYB179WyP70",
+            "create_time": 1619831774,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "reply_like_num": 3,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "诗酒一生",
+            "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLBTsLCr1TniaI9WRkJCdkh0j0xZQ217WFE0sjaSIuQ4I7A1YQWjB0WmYykQ1fScHcJbcUjS96qz2bw/132",
+            "is_from": 3,
+            "author_like_status": 0
+          },
+          {
+            "content": "😂[握手]为什么我做了梦，只要一起床就想不起来了？[疑问]",
+            "openid": "",
+            "create_time": 1619831851,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "reply_like_num": 2,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 4,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 223,
+      "my_id": 10,
+      "nick_name": "木紫",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vRoLh0tQ4yicXo8tZUXIPaGicAwtT4iaibbr6JiaRibK0htBdqkjvCM7tFou6egQ4ibfAmhxiawYFRgeNfLqMZ6SoaMEUSd/132",
+      "content": "我现在终于能够在买点买卖点卖，跌了不慌涨了不喜，前几天洋河涨得不错的时候思想斗争非常激烈，到底要不要高抛低吸，最后又重读一遍准备、纪律、耐心、决心，感谢老唐我终于有进步了[捂脸]",
+      "create_time": 1619775177,
+      "content_id": "7256940003618455562",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 214,
+      "my_id": 26,
+      "nick_name": "顺祁自然",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH5vAzMata8tozVPQ2F6SLpNOm73w8cibCdCxHFHbpynwKeOKyV6GePhKJ7kwsj0zSmpzLuzQGjRfGI3Gib5ywzptN/132",
+      "content": "老唐体谅粉情，让大家安心过节，贡献GDP，于人于国于司皆赢[强][强][强]！老唐一家节日快乐，大家节日快乐！",
+      "create_time": 1619774598,
+      "content_id": "8165520599712530458",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 193,
+      "my_id": 35,
+      "nick_name": "奔跑的大闸蟹",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM7ia2pU1keSdJULQjk9dP5xYlhZvsqZ1TbOsHnhJZgtia2FL0PLNbKs5hmOLP1Q6VAxmEgCvXicu34icw/132",
+      "content": "唐老师的书都买了，读了，受益匪浅，感谢唐老师耐心真诚专业的分享，之前一直以为知易行难，逐渐明白真知行不难，翻过之前的文章，看过推荐的这就是茅台，虽然没有等来茅台，但洋河给了机会，这次下跌期间终于有点越跌越兴奋的感觉，感谢[玫瑰][玫瑰][玫瑰]",
+      "create_time": 1619773723,
+      "content_id": "1151532443463843875",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 187,
+      "my_id": 333,
+      "nick_name": "呵呵",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM7diaj9hROicztlKmWJl8ibazlPv0rUFAynm0koZKlwZjR8b7TIZ4Lhqkf8nxhEp8gWaThBlT8q6dang/132",
+      "content": "关注唐书房应该有一年了，手财新老版本都刷了几遍，老唐的文章我终于能基本看懂了[捂脸][捂脸]",
+      "create_time": 1619773622,
+      "content_id": "3272955402437787981",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 174,
+      "my_id": 18,
+      "nick_name": "老江湖",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy8xzKQqY1q7rdPFDODKA6vWJmgo6mqyLOeia3f3lEJPZIlkabrMicHhyN95n3oyRDVe4uW6YF6HjPia/132",
+      "content": "老唐好像谈陕煤的文章不多，是公司亮点不足吗。",
+      "create_time": 1619773396,
+      "content_id": "6481704539903754258",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "春节后才进入的企业呀[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619774068,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1509139440,
+            "reply_like_num": 3,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "春节后才进入的企业呀[呲牙]",
+            "openid": "",
+            "create_time": 1619774068,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 3,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 172,
+      "my_id": 27,
+      "nick_name": "席耀辉 57",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6DG5icWjsf3RAsmJ07EprjMtReyEKKZKe38UM1tX3h63BO7YEhj4yEjKajXkicJNRbyhcyY2eYpiahia98E7joaPuiaN/132",
+      "content": "老唐，洋河自从换董事长后，年报披露风格也变了，分高中档白酒和普通白酒，这可否看做洋河做市场的思路也在变化，朝着好的一面变了",
+      "create_time": 1619773379,
+      "content_id": "4563593525857353755",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 123,
+      "my_id": 111,
+      "nick_name": "小杨",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vQXb9EOtNruKsoFWzNycBHnGg1Yla3IiatFGkw9OxCiajUbPmH6zyN0463aAePzaSIn9Hd0xHIMVl8LcHgn1xwqQh/132",
+      "content": "唐老师，如果某酒企应收款项融资不断增加，经销商数量也不断增加，那么是否有理由认为这个企业在赌短期业绩的增长？如何判断下游经销商的酒是否卖给了消费者？毕竟，茅台洋河这几年都在不断砍经销商，而且先钱后货。",
+      "create_time": 1619772641,
+      "content_id": "5203637742809907311",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "这个倒不一定。不能这样对应。",
+            "uin": 3297090136,
+            "create_time": 1619773555,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1211566325,
+            "reply_like_num": 3,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "这个倒不一定。不能这样对应。",
+            "openid": "",
+            "create_time": 1619773555,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 3,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 96,
+      "my_id": 69,
+      "nick_name": "xh",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTuiat6jU0CukdiazNysvSwcYUiafAfuttuGBkXKuQ0xXOuobGqlsyvbxqxic86kGvtoWfqhPcpKajcCeD/132",
+      "content": "按照阿里和美团反垄断调查的流程，应该是宣布立案、进驻公司取证、发布处罚结论。所以市场所传的100亿处罚金额不足为信吧。",
+      "create_time": 1619772302,
+      "content_id": "12585554019067363397",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "或许吧，这个我判断不出来。",
+            "uin": 3297090136,
+            "create_time": 1619773471,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2930302643,
+            "reply_like_num": 3,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "或许吧，这个我判断不出来。",
+            "openid": "",
+            "create_time": 1619773471,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 3,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 62,
+      "my_id": 225,
+      "nick_name": "RF20",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45AIarEehGiaNia451fqClR2AK9EKXqT7NtKfLb2DPL3IWMvPP43Y0BH9Zr5iaDtYYaiaINSQZASgSxD8/132",
+      "content": "巴芒演绎真是本好书，读来静如小说 般过瘾；老唐不搞投资，肯定也是一流的小说家。",
+      "create_time": 1619771901,
+      "content_id": "5083046047664570593",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 60,
+      "my_id": 43,
+      "nick_name": "甘露",
+      "logo_url": "http://wx.qlogo.cn/mmopen/ajNVdqHZLLDCTqT2Ds7PJc6h68L9Zia8Q3siaVibnJyF7uH6KmHBA9tRXPtMrkpnCHHYO87WYE4RTRqbnXdzLqic9LSZibD6pBFz02iajZJZUDyaM/132",
+      "content": "这么早！还没下班，那就先打赏了再看。感谢老唐。学到了投资生涯最宝贵一课——“定风波”，面对股价毫无波澜",
+      "create_time": 1619771889,
+      "content_id": "10998901174739927083",
+      "like_id": 0,
+      "like_num": 3,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 386,
+      "my_id": 75,
+      "nick_name": "往事随风",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vSYzAbibO1Y3oZ6OUxBHWHczsxibEHhIHQhslkDyqtVI6gvUhPtufDAbiacN7HyW6RSBKvF9qSLkmKZib5X3qZZ7EVm/132",
+      "content": "哈哈哈，唐老师每次怕大家‘自行脑补’都要特别提醒一下，典型的中国式家长啊！太细心了，谢谢唐老师！",
+      "create_time": 1619826948,
+      "content_id": "3013095329680588875",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 353,
+      "my_id": 41,
+      "nick_name": "九霄",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6AMwSQvdtKoBq96tcDNicAoDpfv6xoXa3oxsNneWPnzsNicQehY4Lq8dBwOZWibKFxaIpku4fbAibibn6A/132",
+      "content": "看评论区，伸手党实在太多了。都关注到这了，好歹看几本靠谱书，再提点儿有价值的问题。",
+      "create_time": 1619788563,
+      "content_id": "368908592322969641",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 338,
+      "my_id": 187,
+      "nick_name": "木头",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoVfa9bKkXqu5hqbwSUEyIBeP8kzqFPAWbeTow9X9pdRT7ZaLhick3HiamuJUCmZpYEIydAItjFy2uzA/132",
+      "content": "看部分靠前的回复，感觉还是有大量的唐粉并不关注老唐的企业解析，只关注老唐加减仓的变化。",
+      "create_time": 1619786955,
+      "content_id": "1948600785017241787",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 252,
+      "my_id": 119,
+      "nick_name": "爱吃派的panda",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6A335VKDG0EoHzZUIcAliaOVpIic6UN7NXsNMcjQKoojw0icgmCOL0hFzcRnMWgDFXgseZW4UDFbQd9RwX7jzwy9jF/132",
+      "content": "老唐请问一下，洋河年报第13页列示的表格中，主要产品库存量和期末成品酒库存量的区别是否是——前者是已包装好的，后者是还未包装的？",
+      "create_time": 1619776425,
+      "content_id": "5003612079223996535",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "13页没有你说的什么主要产品库存量呀，就一个成品酒库存和半成品酒库存。",
+            "uin": 3297090136,
+            "create_time": 1619776545,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1164994221,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "在第13页下半部分，有三个表格，其中“1、主要产品的生产量、销售量、库存量”，此项下表格中白酒“库存量”一行显示2020年是23,897.60吨；往下看就是“2、期末成品酒、半成品酒的库存量”，此项下表格中“成品酒库存量”一列显示是24,324.62吨。",
+            "uin": 1164994221,
+            "create_time": 1619792587,
+            "reply_id": 2,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "成品酒库存＝灌装好的成品白酒库存（上面表格的白酒库存量）+成品红酒库存。",
+            "uin": 3297090136,
+            "create_time": 1619793961,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "to_uin": 1164994221,
+            "reply_like_num": 2,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          },
+          {
+            "content": "[流汗]这个……可以算脑筋急转弯了。",
+            "uin": 1164994221,
+            "create_time": 1619794152,
+            "reply_id": 4,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          },
+          {
+            "content": "我都忘了洋河还卖红酒[捂脸]",
+            "uin": 1164994221,
+            "create_time": 1619794313,
+            "reply_id": 5,
+            "is_deleted": 0,
+            "to_uin": 3297090136,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 2
+          }
+        ],
+        "reply_count": 3,
+        "max_reply_id": 5
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "成品酒库存＝灌装好的成品白酒库存（上面表格的白酒库存量）+成品红酒库存。",
+            "openid": "",
+            "create_time": 1619793961,
+            "reply_id": 3,
+            "is_deleted": 0,
+            "reply_like_num": 2,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          },
+          {
+            "content": "[流汗]这个……可以算脑筋急转弯了。",
+            "openid": "oWJqFxJpVvJfREMEeoOV-6Bxl9Uw",
+            "create_time": 1619794152,
+            "reply_id": 4,
+            "is_deleted": 0,
+            "reply_like_num": 0,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "爱吃派的panda",
+            "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6A335VKDG0EoHzZUIcAliaOVpIic6UN7NXsNMcjQKoojw0icgmCOL0hFzcRnMWgDFXgseZW4UDFbQd9RwX7jzwy9jF/132",
+            "is_from": 3,
+            "author_like_status": 0
+          },
+          {
+            "content": "我都忘了洋河还卖红酒[捂脸]",
+            "openid": "oWJqFxJpVvJfREMEeoOV-6Bxl9Uw",
+            "create_time": 1619794313,
+            "reply_id": 5,
+            "is_deleted": 0,
+            "reply_like_num": 0,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "爱吃派的panda",
+            "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6A335VKDG0EoHzZUIcAliaOVpIic6UN7NXsNMcjQKoojw0icgmCOL0hFzcRnMWgDFXgseZW4UDFbQd9RwX7jzwy9jF/132",
+            "is_from": 3,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 6,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 228,
+      "my_id": 250,
+      "nick_name": "忘忧草",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoVnSWdVOAtTmIyzJFhFJNFkr5Yk15ZLicHkq1j2Aib3DG5l2kdOciaQWCcz6vWgLicpjSlSQyGnJTjpxttUSVib5VtlP/132",
+      "content": "第N次见证业绩与股价波动无关，看今天陕煤邪气横生[流汗]",
+      "create_time": 1619775339,
+      "content_id": "12283435127429660922",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 215,
+      "my_id": 37,
+      "nick_name": "Mr.D",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoUGxI0XKlAfiaABBYPRTO9IQGU3WpUkLHlSUEwtyo5ta2JHcXW6uSoeX9MMVg72zIiaTibsOQMCFicKlEsfkESrdgfs/132",
+      "content": "老唐要看五月二号凌晨的伯克希尔股东大会直播不？",
+      "create_time": 1619774600,
+      "content_id": "4584123954863538213",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "看情况，情况允许的情况下，还是想看[呲牙]",
+            "uin": 3297090136,
+            "create_time": 1619774760,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 1067324531,
+            "reply_like_num": 2,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "看情况，情况允许的情况下，还是想看[呲牙]",
+            "openid": "",
+            "create_time": 1619774760,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 2,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 117,
+      "my_id": 65,
+      "nick_name": "阿柯",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoV5Q7rLiaibmWy5YCUOnbrTozb5lRbFicDtc7l9Y9ibic2016MJjhsS95ib1jfWEJjeXg82kPzczh40QUouzJMUuKY4Z7/132",
+      "content": "唐叔，节日快乐[咖啡]最近上下班路上一直在听书房里的内容，日拱一卒",
+      "create_time": 1619772603,
+      "content_id": "7496053580449710145",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 111,
+      "my_id": 40,
+      "nick_name": "Summerʘᴗʘ",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH7Vvp793ib080LKfmHVuByJE3TviamibomcBarltJzr6fubzQUU23nvyFHcfGKFaPWcOZk3DwcCT9tzFN64DCDI4g4/132",
+      "content": "手里一点点现金，今天加仓了古B，开心...永远比较。。。谢谢老唐~",
+      "create_time": 1619772528,
+      "content_id": "7756079322980417576",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 99,
+      "my_id": 1058,
+      "nick_name": "♂鳴®",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5nzhiaichecXFEBBQo4hfqZp2h7bzjEz5ibdau63ficORjL2wWY8ahkmAYG9WIviakDFzbYkMe6tQoYyw/132",
+      "content": "老唐每天要追剧，看书，运动，那么这些市场上很多小道消息，以及一些舆论看法，老唐应该没有时间关注或者不屑的啊，感觉每周看一次老唐的周报，对整个市场走势以及市场外的各种花边新闻都了如指掌啊[呲牙]",
+      "create_time": 1619772382,
+      "content_id": "1710357059322512418",
+      "like_id": 0,
+      "like_num": 2,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 366,
+      "my_id": 61,
+      "nick_name": "知心你我",
+      "logo_url": "http://wx.qlogo.cn/mmopen/8yb277wkKoUPHdDMK5ziaeA1C6GOEH1hsz1EziaqTteJ8mqpBaT3sVVmhvxO1NeWnpggfaCuUQywLJAJbEu385Bw/132",
+      "content": "陕煤业绩好为啥会跌[捂脸]，业绩与涨跌不一定正相关，市场先生不讲为什么，唐老师苦口婆心都写了N遍了，为啥还有人问这个，他们来唐书房这个宝山竟然抄个代码就跑[捂脸]",
+      "create_time": 1619791459,
+      "content_id": "2697404925503078461",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 324,
+      "my_id": 24,
+      "nick_name": "张洋",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTusBZibu6O1ExLia42USnVZ3lfJTINibibibmgIUIicZ68s9qz37Oibco6Tz6P0NDnJsSLbrYRe4gvqu8rA5/132",
+      "content": "年季报的时候才理解为什么要集中投资了，周记的内容就这么丰富了",
+      "create_time": 1619784489,
+      "content_id": "5439220714789928984",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 254,
+      "my_id": 1,
+      "nick_name": "陈又佳",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45AD4BSFicLibDVsThgviaOpD0mhcXCrxeGzUtFGqyrqGibX2EicazzR6JohDn0ANMcpb14ISUQm2YkxicV/132",
+      "content": "喜欢这样的分析，用数据说话看的真的舒服，持股的信心应该像你这样的，您的书都买了可惜目前一本都没看完，太忙了，谁让我是个奶爸😂 ",
+      "create_time": 1619776495,
+      "content_id": "12419662023950860289",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 233,
+      "my_id": 20,
+      "nick_name": "rick凹子",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTuvKMQZH4icIQibqMsE770CibPNAlIZJXXwIKPv2Zdhu9uWSEOV4T1QtmBr8sjrVOcYoibpJcmBKfruuj/132",
+      "content": "腾讯的处罚钱如您所说是小事，但是如果强制出售酷狗音乐等，是个不好的开头，长远会限制持续扩展的边界，因为不知道下次又要分拆哪个领域",
+      "create_time": 1619775446,
+      "content_id": "9732953482570235924",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 155,
+      "my_id": 14,
+      "nick_name": "静",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6DuicTGyqg2biase7qImP5Zg4qU5NhkY0Ja5tUQvSJOg42fB8rbcq1PFEJTia75D9HuYLj2Vc3iaV4wPg/132",
+      "content": "学到了不少财务知识。难怪投资是个经验积累过程，细微的地方太多了。保持平常心，跟着老唐慢慢学。[抱拳]",
+      "create_time": 1619772984,
+      "content_id": "3839610233303334926",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 91,
+      "my_id": 72,
+      "nick_name": "大盗贼",
+      "logo_url": "http://wx.qlogo.cn/mmopen/bV0j5VIictEibgaanZrPGKYaTJhlU4pKj55stXyvVhjLWXPiaRTBuTc8zeLibVoKG4Pohxwf1ia7zOib1pr7HcGqkfcXKkBUSYjHDE/132",
+      "content": "这个周记发的我措手不及，还没有整理好语言咋个办。。。算了，不提问了，放假了，不给老唐增加负担，提前祝老唐节日愉快，去哪都不堵车。",
+      "create_time": 1619772268,
+      "content_id": "1244211287886397512",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 71,
+      "my_id": 726,
+      "nick_name": "刘畅",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6DCXu7qv9H9IaIbSX5AhZKJDhXRGPWRY7HxYuuibtqnFAOwxEF3OibH2n68oBWMdmlznDGmBsabkz7tlicYR22sZyib/132",
+      "content": "煤炭企业今日集体重挫，兖州煤业甚至跌停，是假期资金避险还是煤炭价格出现重大利空，实在是摸不着头脑，于是小幅加仓，等待下跌到位继续买入。",
+      "create_time": 1619772025,
+      "content_id": "5286004009977512662",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 65,
+      "my_id": 198,
+      "nick_name": "曼",
+      "logo_url": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM6nLPjwwELwkk5icXvpnhWfBFzErviabzJkbt9Y9PP1LrvGYic4L9nVN1tXGeicMGBwZBVvpfdHeMa82r1FOXDFhbN0VtqZ88xX74U/132",
+      "content": "看陕西煤业业绩以为今天不错，结果一点都不搭[衰][衰]果然是个劫[偷笑]",
+      "create_time": 1619771930,
+      "content_id": "7730973173256028358",
+      "like_id": 0,
+      "like_num": 1,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 389,
+      "my_id": 3,
+      "nick_name": "活在当下",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6A335VKDG0EoJBib6W3OGY4q5NOY0v9rZ4jnCoAGmFpwZLK19icqia1a3KC5p84lXBtC9jlyL92P1LZthu6HzGI1ZZ/132",
+      "content": "唐朝老师，我关注您的文章一年多了，也买了您几本书，看完后让我对价值投资有了深入的认识。\n通过您分享的文章，我建立了自己的投资体系，也终于赚到了钱。我今年真正体会了您说的一句话“别瞅傻子，锄地”，投资的心态好了很多。\n五一到了，我祝您和您的家人身体健康、万事如意！",
+      "create_time": 1619828323,
+      "content_id": "7834065612564332547",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 384,
+      "my_id": 34,
+      "nick_name": "鱼宝宝",
+      "logo_url": "http://wx.qlogo.cn/mmopen/kfOLF5Co7vTFhWbqib7A45OrYTZXvtou0qWjzjyhk9xWxPCbX0qibM9GPjs4qtIKt4h2yScNrVlFBaDjrN1IdfH6fe4CpZ22uQ/132",
+      "content": "老唐，少数股东损益连年是负数 亏损，但比例不大，是否代表上市公司对外有利益输送？",
+      "create_time": 1619825675,
+      "content_id": "10670924587115479074",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+          {
+            "content": "不代表",
+            "uin": 3297090136,
+            "create_time": 1619828002,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "to_uin": 2484518240,
+            "reply_is_elected": 0,
+            "reply_del_flag": 0,
+            "status": 1
+          }
+        ],
+        "reply_count": 1
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+          {
+            "content": "不代表",
+            "openid": "",
+            "create_time": 1619828002,
+            "reply_id": 1,
+            "is_deleted": 0,
+            "reply_like_num": 0,
+            "reply_like_status": 0,
+            "reply_is_elected": 1,
+            "reply_del_flag": 0,
+            "nick_name": "唐书房",
+            "logo_url": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM6R1zddkc3dPYenNy8ABFTEOK9oX0ht4JXXx1mc195sLQ/0",
+            "is_from": 2,
+            "author_like_status": 0
+          }
+        ],
+        "max_reply_id": 2,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 314,
+      "my_id": 70,
+      "nick_name": "夏日孤岛",
+      "logo_url": "http://wx.qlogo.cn/mmopen/7SPO0mRJt6AM3OCFZtkBFFs1YibCrSqy19Q56eHX4jV2EibicwdBegcHVn5lMDpIGhCwA6YxFVSoZ504WopuGTkVQ/132",
+      "content": "年内收益又到9%了，实在是追不上。芒格和巴菲特的大会全世界关注，老唐的追随者也不少啊！",
+      "create_time": 1619783074,
+      "content_id": "4041766780488646726",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 168,
+      "my_id": 45,
+      "nick_name": "君",
+      "logo_url": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEKxhWDMUdO9LwkxkibA6GHibSwm1mrpMC6O5jcdyxokdWw9iav7TPLm0QDRsk8DDtKWcSAWxlf7XxIwQ/132",
+      "content": "茅台的帐算的好细腻，大巧若拙[强][强][强]",
+      "create_time": 1619773269,
+      "content_id": "362787099990032429",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    },
+    {
+      "id": 115,
+      "my_id": 33,
+      "nick_name": "忠勇伯",
+      "logo_url": "http://wx.qlogo.cn/mmopen/FYVyibLItDH50ticUkiccuTupmNb4iaJHrQ8rrAax68SlCYX10nXzjXLticQvm2OISt5x2yscrgiarI2DS5BeSHYzibcKSS7QrtFVhh/132",
+      "content": "来书房那么久，记忆中第一次月度荐书白板[呲牙][呲牙][呲牙]，也好，休息一下顺便统筹读年报，看看能否有新发现，不过发现新标的这个我不持乐观态度，来书房这么多年，通过自己发现并跟踪下去的标的只有三四个。这个月没有新书推荐，我有空可以老书新读，之前西格尔的那本长期投资，我买了，读了没意思，现在回看，非常受用。因为以前上下求索怎么发现股票，财报要怎么读，怎么估值……对一些长期统计通用的读起来不来电。长期投资这本书是我自己买的，后来发现老唐也推荐，所以没有丢。其实买长期投资这本书是一段故事，因为机械工业出版社有一个投资系列，我是从皮得林奇三本书开始买他这个系列的，后来一直读一直买，到了书房就一直学，一直扔（书），看了巴芒演义之后，因为巴芒演义说过皮特林奇厉害，但是并没有全面足够长的时间验证，我甚至重读皮特林奇三本书，看看是否值得留，最终我还是留下[呲牙][呲牙]",
+      "create_time": 1619772582,
+      "content_id": "11810355646690230305",
+      "like_id": 0,
+      "like_num": 0,
+      "like_status": 0,
+      "is_from_friend": 0,
+      "reply": {
+        "reply_list": [
+
+        ],
+        "reply_count": 0
+      },
+      "is_from_me": 0,
+      "is_top": 0,
+      "reply_new": {
+        "reply_list": [
+
+        ],
+        "max_reply_id": 1,
+        "reply_total_cnt": 0
+      }
+    }
+  ],
+  "friend_comment": [
+
+  ],
+  "elected_comment_total_cnt": 100,
+  "only_fans_can_comment": true,
+  "only_fans_days_can_comment": false,
+  "reply_flag": 0
+}

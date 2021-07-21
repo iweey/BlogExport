@@ -1,0 +1,1 @@
+nohup java -jar BlogExport-0.0.1-SNAPSHOT.jar ----spring.config.location=/data/app/jiawei/spider/application.properties &
