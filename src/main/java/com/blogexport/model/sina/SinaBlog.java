@@ -37,7 +37,7 @@ public class SinaBlog extends Blog implements HtmlBean {
 	private String time;
 
 	//TODO 不能写死
-	@Image(download="/Users/laijiawei/Documents/source/java/blog-export/export/image",value={"real_src"})
+	@Image(download="/Users/laijiawei/Documents/source/java/BlogExport/export/image",value={"real_src"})
 	@HtmlField(cssPath="#sina_keyword_ad_area2 img")
 	private List<String> imgs;
 
