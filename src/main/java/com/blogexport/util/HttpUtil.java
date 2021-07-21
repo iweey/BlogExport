@@ -3,6 +3,7 @@ package com.blogexport.util;
 
 import com.alibaba.fastjson.JSON;
 import com.blogexport.model.Image;
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -19,28 +20,28 @@ public class HttpUtil {
         OutputStreamWriter out = null;
         InputStream is = null;
         try {
-            URL url = new URL(urlStr);// 创建连接
+            URL url = new URL(urlStr);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setDoOutput(true);
             connection.setDoInput(true);
             connection.setUseCaches(false);
             connection.setInstanceFollowRedirects(true);
-            connection.setRequestMethod("POST"); // 设置请求方式
-            connection.setRequestProperty("Accept", "application/json"); // 设置接收数据的格式
-            connection.setRequestProperty("Content-Type", "application/json"); // 设置发送数据的格式
+            connection.setRequestMethod("POST");
+            connection.setRequestProperty("Accept", "application/json");
+            connection.setRequestProperty("Content-Type", "application/json");
             connection.connect();
-            out = new OutputStreamWriter(connection.getOutputStream(), "UTF-8"); // utf-8编码
+            out = new OutputStreamWriter(connection.getOutputStream(), "UTF-8");
             out.append(JSON.toJSONString(param));
             out.flush();
             out.close();
 
             // 读取响应
             is = connection.getInputStream();
-            int length = (int) connection.getContentLength();// 获取长度
+            int length = connection.getContentLength();
             if (length != -1) {
                 byte[] data = new byte[length];
                 byte[] temp = new byte[512];
-                int readLen = 0;
+                int readLen;
                 int destPos = 0;
                 while ((readLen = is.read(temp)) > 0) {
                     System.arraycopy(temp, 0, data, destPos, readLen);
@@ -64,19 +65,4 @@ public class HttpUtil {
 
         return "";
     }
-
-    public static void main(String[] args) {
-
-        List<Image> list=new ArrayList<>();
-
-        Image image=new Image();
-        image.setFileName("9999");
-        image.setUrl("https://mmbiz.qpic.cn/sz_mmbiz_png/kte008W0h6JmeycBpFkicibpF8V6zibmnTqFhUTZpWMSnpZdJhHkYcQfEwpA1KYdP1FLkSGAicrFCnChOYgQrQJvXw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1");
-        list.add(image);
-
-        post("http://1.117.86.142:8080/downloadImage",list);
-
-
-    }
-
 }

@@ -148,18 +148,15 @@ public class WeixinScheduleTask {
 
         String homeDic = System.getProperty("user.dir") + File.separator + "export";
 
-        String pdfDic = homeDic + File.separator + "pdf" + File.separator;
-        String htmlDic = homeDic + File.separator + "html" + File.separator;
-
         String date = new SimpleDateFormat("yyyyMMdd").format(new Date());
-        String mergeFilePath = homeDic + File.separator + "all_" + date + ".pdf";
+        String mergeFilePath = homeDic + File.separator + "weixin_" + date + ".pdf";
 
         List<HttpGetRequest> requests = new ArrayList<>();
 
         for (Article article : articles) {
             HttpGetRequest request = new HttpGetRequest(article.getContent_url());
             Map<String, String> map = new HashMap<>();
-            map.put("htmlDic", htmlDic);
+            map.put("homeDic", homeDic);
             map.put("imageServer", imageServer);
             map.put("postTime", article.getPostTime() + "");
             request.setParameters(map);
@@ -168,12 +165,26 @@ public class WeixinScheduleTask {
 
         startEngine(requests);
 
+        String htmlDic=homeDic + File.separator + "html" + File.separator;
+        String pdfDic=homeDic + File.separator + "pdf" + File.separator;
+
         PdfUtil.dirHtmlToPdf(htmlDic, pdfDic);
 
         PdfUtil.mergePdf(pdfDic, mergeFilePath);
 
-        FileUtils.deleteDirectory(new File(pdfDic));
-        FileUtils.deleteDirectory(new File(htmlDic));
+        clean(homeDic);
+
+    }
+
+    public static void clean(String homeDic){
+        try {
+            //删除临时文件夹
+            FileUtils.deleteDirectory(new File(homeDic + File.separator + "pdf" + File.separator));
+            FileUtils.deleteDirectory(new File(homeDic + File.separator + "html" + File.separator));
+        }catch (Exception e){
+            e.printStackTrace();
+            System.out.println("清除临时文件失败");
+        }
 
     }
 

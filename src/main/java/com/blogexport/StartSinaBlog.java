@@ -28,15 +28,13 @@ public class StartSinaBlog {
         String mergeFilePath = homeDic + File.separator + "blog_" + userId + "_" + date + ".pdf";
 
         //获取博客目录的总页数
-        Integer pageCount = 1;
-//        Integer pageCount = getPageCount(userId);
+        Integer pageCount = getPageCount(userId);
         if(pageCount==0){
             System.out.println("解析总页数失败，请手动填写");
             return;
         }
 
-
-        //所有目录文章
+        //所有文章
         List<HttpGetRequest> requests = new ArrayList<>();
         for (int i = 0; i < pageCount; i++) {
             HttpGetRequest request = new HttpGetRequest("http://blog.sina.com.cn/s/articlelist_" + userId + "_0_" + i + ".html");

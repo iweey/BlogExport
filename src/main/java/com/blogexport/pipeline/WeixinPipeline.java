@@ -71,7 +71,7 @@ public class WeixinPipeline implements Pipeline<SpiderBean> {
             html = html.replace("#content#", weixin.getContent());
             html = html.replace("#imageDic#", imageServer + File.separator+"image"+File.separator);
 
-            String htmlDic = weixin.getRequest().getParameter("htmlDic");
+            String htmlDic = weixin.getRequest().getParameter("homeDic") + File.separator + "html" + File.separator;
             String filePath = htmlDic + File.separator + postTime + ".html";
             FileUtils.writeStringToFile(new File(filePath), html, "UTF-8", false);
 

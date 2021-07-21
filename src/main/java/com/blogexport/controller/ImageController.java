@@ -17,6 +17,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
+
 @RestController
 public class ImageController {
 
@@ -30,6 +31,11 @@ public class ImageController {
     private static final Logger LOGGER = LoggerFactory.getLogger(WeixinPipeline.class);
 
 
+    /**
+     * 根据请求提交的图片url，去远程下载图片保存在本地
+     * @param images
+     * @return
+     */
     @PostMapping("/downloadImage")
     public boolean downloadImage(@RequestBody List<Image> images) {
 
@@ -56,6 +62,12 @@ public class ImageController {
         return true;
     }
 
+    /**
+     * 访问本地的图片
+     * @param id
+     * @return
+     * @throws Exception
+     */
     @GetMapping(value = "/image/{id}", produces = MediaType.IMAGE_JPEG_VALUE)
     @ResponseBody
     public byte[] getImage(@PathVariable String id) throws Exception {
