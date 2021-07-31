@@ -89,6 +89,7 @@ public class WeixinScheduleTask {
                 HttpResponse response = client.execute(new HttpGet(tmpurl));
                 HttpEntity entity = response.getEntity();
                 if (response.getStatusLine().getStatusCode() == 200) {
+                    //解析返回的json数据
                     String res = EntityUtils.toString(entity);
                     ArticleJson articleJson = JSON.parseObject(res, ArticleJson.class);
                     JSONObject jsonObject = JSON.parseObject(articleJson.getGeneral_msg_list());

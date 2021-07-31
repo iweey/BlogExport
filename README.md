@@ -16,17 +16,19 @@ npm install -g anyproxy
 
 anyproxy --intercept --silent true  --rule ~/项目名/src/main/resources/weixinSpider.js
 
-5.修改系统代理    默认端口是8001。下面是Mac的设置页面，Windows类似。
+5.下载证书，安装到系统中，下载链接 http://localhost:8002/fetchCrtFile
 
-![mac代理](https://github.com/laijiawei/BlogExport/blob/main/docs/image/system_proxy.png)
+6.修改系统代理    默认端口是8001。下面是Mac的设置页面，Windows类似。
 
-6.运行项目的Application类
+![mac代理](http://1.117.86.142:9000/image/system_proxy.png)
 
-7.打开PC端微信，找到要导出的公众号页面，点击下面按钮打开历史文章目录
+7.运行项目的Application类
 
-![打开历史文章目录](https://github.com/laijiawei/BlogExport/blob/main/docs/image/weixin_history.png)
+8.打开PC端微信，找到要导出的公众号页面，点击下面按钮打开历史文章目录
 
-8.看后台日志，等到爬虫任务完成，完成之后会生成历史文章合并的pdf，默认放到项目路径下的export目录
+![打开历史文章目录](http://1.117.86.142:9000/image/weixin_history.png)
+
+9.看后台日志，等到爬虫任务完成，完成之后会生成历史文章合并的pdf，默认放到项目路径下的export目录
 
 
 
@@ -36,7 +38,7 @@ anyproxy --intercept --silent true  --rule ~/项目名/src/main/resources/weixin
 
 2.修改StartSinaBlog类的配置,把下面一串数字填写到userId中
 
-![用户id](https://github.com/laijiawei/BlogExport/blob/main/docs/image/sinablog_userid.png)
+![用户id](http://1.117.86.142:9000/image/sinablog_userid.png)
 
 3.启动StartSinaBlog类
 

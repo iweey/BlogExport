@@ -10,11 +10,18 @@ import java.net.URL;
 
 public class ImageUtil {
 
+    /**
+     * 下载图片
+     * @param imgUrl  要下载的图片链接
+     * @param filePath  保存图片的路径
+     * @throws Exception
+     */
     public static void downloadImage(String imgUrl,String filePath) throws Exception {
         String uri = String.format(imgUrl);
         URL url = new URL(uri);
         HttpURLConnection conn = (HttpURLConnection)url.openConnection();
-        conn.setRequestProperty("referer", url.getProtocol()+"://"+url.getHost()); //这是破解防盗链添加的参数
+        //破解防盗链
+        conn.setRequestProperty("referer", url.getProtocol()+"://"+url.getHost());
         conn.setRequestMethod("GET");
         conn.setConnectTimeout(5 * 1000);
         InputStream inStream = conn.getInputStream();
@@ -23,7 +30,9 @@ public class ImageUtil {
 
     /**
      * 保存图片
-     *
+     * @param inStream
+     * @param path
+     * @throws Exception
      */
     public static void readInputStream(InputStream inStream, String path) throws Exception{
         FileOutputStream fos = null;

@@ -16,7 +16,7 @@ public class WeixinController {
 
 
     @RequestMapping("/weixin")
-    public void weixin(HttpServletRequest request, String link) {
+    public void weixin(String link) {
         if (link.startsWith("https://mp.weixin.qq.com/mp/profile_ext?action=getmsg")) {
             System.out.println(link);
             LOGGER.debug("request weixin url:"+link);
